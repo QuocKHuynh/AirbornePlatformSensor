@@ -1,0 +1,2624 @@
+
+Sweeping Algorithm
+
+Time: 81.19(s) {"range" : "6.8"}
+Time: 81.19(s) {"range" : "6.8"}
+Time: 81.19(s) {"range" : "6.8"}
+Time: 81.19(s) {"range" : "6.8"}
+Time: 81.19(s) {"range" : "6.8"}
+Time: 81.19(s) {"range" : "6.8"}
+Time: 81.19(s) {"range" : "6
+
+Servo Angle: 90
+
+Time: 81.26(s) {"range" : "
+Time: 81.31(s) 7.5"}
+Time: 81.41(s) {"range" : "7.5"}
+
+Servo Angle: 91
+
+Time: 81.51(s) {"rang
+Time: 81.51(s) e
+Time: 81.56(s) " : "7.5"}
+Time: 81.66(s) {"range" : "7.5"}
+
+Servo Angle: 92
+
+Time: 81.81(s) {"range" : "7.5"}
+Time: 81.81(s) {"direction" : "inbound", "DetectedObjectVelocity" : "14"}
+Time: 81.81(s) {"direction" : "outbound"
+Time: 81.81(s) ,
+Object detected at angle : 92
+Time: 81.86(s) "DetectedObjectVelocity" : "-15"}
+Object detected at angle : 92
+Time: 81.91(s) {"range" : "7.5"}
+Time: 82.06(s) {"range" : "7.5"}
+
+Servo Angle: 93
+
+Time: 82.16(s) {"range" : "7.5"}
+Time: 82.31(s) {"range" : "7.5"}
+Time: 82.31(s) {"direction" : "inbound", "DetectedObjectVelocity" : "15"}
+Object detected at angle : 93
+
+Servo Angle: 94
+
+Time: 82.42(s) {"range" : "7.5"}
+Time: 82.57(s) {"range" : "7.5"}
+Time: 82.57(s) {"direction" : "inbound", "DetectedObjectVelocity" : "15"}
+Object detected at angle : 94
+Time: 82.67(s) {"range" : "7.5"}
+Time: 82.67(s) {"direction" : "out
+Object detected at angle : 94
+
+Servo Angle: 95
+
+Time: 82.72(s) bound", "DetectedObjectVelocity" : "-15"}
+Object detected at angle : 95
+Time: 82.82(s) {"range" : "7.5"}
+Time: 82.92(s) {"range" : "7.
+Time: 82.92(s) 5
+Time: 82.92(s) "}
+
+Servo Angle: 96
+
+Time: 83.07(s) {"range" : "7.5"}
+Time: 83.22(s) {"range" : "7.5"}
+
+Servo Angle: 97
+
+Time: 83.32(s) {"range" : "7.5"}
+Time: 83.32(s) {"direction" : "inb
+Time: 83.32(s) o
+Object detected at angle : 97
+Time: 83.37(s) und", "DetectedObjectVelocity" : "15"}
+Object detected at angle : 97
+Time: 83.47(s) {"range" : "7.5"}
+Time: 83.57(s) {"range" : "7.5"}
+
+Servo Angle: 98
+
+Time: 83.72(s) {"range" : "7.5"}
+Time: 83.82(s) {"range" : "7.5"}
+Time: 83.82(s) 
+
+Servo Angle: 99
+
+Time: 83.97(s) {"range" : "7.5"}
+Time: 84.07(s) {"range" : "7.5"}
+
+Servo Angle: 100
+
+Time: 84.22(s) {"range" : "7.5"}
+Time: 84.32(s) {"range" : "7.5
+Time: 84.37(s) "}
+Time: 84.47(s) {"range" : "7.5"}
+
+Servo Angle: 101
+
+Time: 84.62(s) {"range" : "7.5"}
+Time: 84.72(s) {"range" : "7.5"}
+
+Servo Angle: 102
+
+Time: 84.87(s) {"range" : "7.5"}
+Time: 84.97(s) {"range
+Time: 84.97(s) "
+Time: 85.02(s) : "7.5"}
+
+Servo Angle: 103
+
+Time: 85.12(s) {"range" : "7.5"}
+Time: 85.27(s) {"range" : "7.5"}
+Time: 85.38(s) {"range" : "7.5"}
+
+Servo Angle: 104
+
+Time: 85.53(s) {"range" : "7.5"}
+Time: 85.63(s) {"range" : "7.5"}
+
+Servo Angle: 105
+
+Time: 85.78(s) {"range" : "7.5"}
+Time: 85.88(s) {"range" : "7.5"
+Time: 85.93(s) }
+
+Servo Angle: 106
+
+Time: 86.03(s) {"range" : "7.5"}
+Time: 86.13(s) {"range
+Time: 86.18(s) " : "7.5"}
+Time: 86.28(s) {"range" : "7.5"}
+
+Servo Angle: 107
+
+Time: 86.43(s) {"range" : "7.8"}
+Time: 86.58(s) {"range" : "7.8"}
+
+Servo Angle: 108
+
+Time: 86.68(s) {"range" : "7
+Time: 86.68(s) .8"}
+Time: 86.83(s) {"range" : "7.8"}
+
+Servo Angle: 109
+
+Time: 86.98(s) {"range" : "7.8"}
+Time: 87.08(s) {"range" : "7.8"}
+
+Servo Angle: 110
+
+Time: 87.23(s) {"range" : "7.8"}
+Time: 87.38(s) {"range" : "7.8"}
+Time: 87.48(s) {"range" : "7.8
+
+Servo Angle: 111
+
+Time: 87.53(s) "}
+Time: 87.63(s) {"range" : "7.8"}
+Time: 87.78(s) {"range" : "7.9"}
+
+Servo Angle: 112
+
+Time: 87.93(s) {"range" : "8.2"}
+Time: 88.03(s) {"range" : "8
+Time: 88.03(s) .
+Time: 88.08(s) 2"}
+
+Servo Angle: 113
+
+Time: 88.18(s) {"range" : "8.2"}
+Time: 88.33(s) {"range" : "8.2"}
+
+Servo Angle: 114
+
+Time: 88.43(s) {"range" : "8.5"}
+Time: 88.58(s) {"range" : "8.5"}
+Time: 88.68(s) {"range
+
+Servo Angle: 115
+
+Time: 88.73(s) " : "8.5"}
+Time: 88.83(s) {"range" : "8.5"}
+Time: 88.93(s) {"r
+Time: 88.98(s) ange" : "8.5"}
+
+Servo Angle: 116
+
+Time: 89.08(s) {"range" : "8.5"}
+Time: 89.23(s) {"range" : "8.5"}
+
+Servo Angle: 117
+
+Time: 89.33(s) {"range" : "8.5"}
+Time: 89.48(s) {"range" : "8.5"}
+
+Servo Angle: 118
+
+Time: 89.64(s) {"range" : "8.5"}
+Time: 89.74(s) {"range" : "8.5"
+Time: 89.79(s) }
+Time: 89.89(s) {"range" : "8.5"}
+
+Servo Angle: 119
+
+Time: 90.04(s) {"range" : "8.5"}
+Time: 90.14(s) {"range" : "8
+Time: 90.14(s) .
+Time: 90.18(s) 5"}
+
+Servo Angle: 120
+
+Time: 90.29(s) {"range" : "8.5"}
+Time: 90.43(s) {"range" : "8.5"}
+
+Servo Angle: 121
+
+Time: 90.54(s) {"range" : "8.5"}
+Time: 90.68(s) {"range" : "8.5"}
+Time: 90.79(s) {"range" : "8.5"}
+
+Servo Angle: 122
+
+Time: 90.94(s) {"range" : "8.5"}
+Time: 91.09(s) {"range" : "8.5"}
+
+Servo Angle: 123
+
+Time: 91.19(s) {"range" : "8.5"}
+Time: 91.34(s) {"range" : "8.5"}
+
+Servo Angle: 124
+
+Time: 91.49(s) {"range" : "8.5"}
+Time: 91.64(s) {"range" : "8.5"}
+
+Servo Angle: 125
+
+Time: 91.79(s) {"range" : "8.5"}
+Time: 91.94(s) {"range" : "8.5"}
+
+Servo Angle: 126
+
+Time: 92.04(s) {"range" : "8
+Time: 92.09(s) .5"}
+Time: 92.19(s) {"range" : "8.8"}
+
+Servo Angle: 127
+
+Time: 92.34(s) {"range" : "8.8"}
+Time: 92.44(s) {"range
+Time: 92.44(s) " : "8.
+Time: 92.49(s) 8"}
+Time: 92.59(s) {"range" : "8.5"}
+
+Servo Angle: 128
+
+Time: 92.74(s) {"range" : "8.8"}
+Time: 92.84(s) {"range" : "8.9"}
+
+Servo Angle: 129
+
+Time: 92.99(s) {"range" : "8.8"}
+Time: 93.09(s) {"range" : "8.9"}
+
+Servo Angle: 130
+
+Time: 93.24(s) {"range" : "8.9"}
+Time: 93.34(s) {"range" : "8.8"}
+Time: 93.34(s) 
+Time: 93.39(s) 
+Time: 93.49(s) {"range" : "8.5"}
+
+Servo Angle: 131
+
+Time: 93.59(s) {"range" : "8
+Time: 93.64(s) .5"}
+
+Sweeping Algorithm
+
+Time: 93.74(s) {"range" : "8.5"}
+
+Servo Angle: 132
+
+Time: 93.89(s) {"range" : "5.5"}
+Time: 93.99(s) {"range" : "5.4"}
+
+Servo Angle: 133
+
+Time: 94.14(s) {"range" : "5.1"}
+Time: 94.24(s) {"range" : "5.4"}
+Time: 94.39(s) {"range" : "5.4"}
+
+Servo Angle: 134
+
+Time: 94.49(s) {"range" : "5.1"}
+Time: 94.49(s) 
+Time: 94.54(s) 
+Time: 94.64(s) {"range" : "4.8"}
+
+Servo Angle: 135
+
+Time: 94.74(s) {"range" :
+Time: 94.74(s) "
+Time: 94.79(s) 4.8"}
+Time: 94.89(s) {"range" : "5.1"}
+Time: 95.00(s) {"range" : "5.1
+Time: 95.00(s) "
+
+Servo Angle: 136
+
+Time: 95.05(s) }
+Time: 95.15(s) {"range" : "5.1"}
+Time: 95.25(s) {
+Time: 95.30(s) "range" : "5.1"}
+
+Servo Angle: 137
+
+Time: 95.40(s) {"range" : "5.1"}
+Time: 95.55(s) {"range" : "5.1"}
+
+Servo Angle: 138
+
+Time: 95.65(s) {"range" : "5.1"}
+Time: 95.80(s) {"range" : "5.1"}
+Time: 95.90(s) {"range" : "5.1"}
+
+Servo Angle: 139
+
+Time: 95.95(s) 
+Time: 96.05(s) {"range" : "5.1"}
+Time: 96.05(s) {"direction" : "outbound", "DetectedObje
+Time: 96.05(s) ctVeloc
+Object detected at angle : 139
+Time: 96.10(s) ity" : "-15"}
+Time: 96.15(s) {"range" :
+Time: 96.20(s) "5.1"}
+
+Servo Angle: 140
+
+Time: 96.30(s) {"range" : "5.4"}
+Time: 96.40(s) {"r
+Time: 96.40(s) a
+Time: 96.45(s) nge" : "5.4"}
+
+Sweep complete, number of objects: 140
+
+
+Servo Angle: 139
+
+Time: 96.55(s) {"range" : "5.4"}
+Time: 96.70(s) {"range" : "5.1"}
+Time: 96.80(s) {"range" : "5.1"}
+
+Servo Angle: 138
+
+Time: 96.95(s) {"range" : "5.1"}
+Time: 97.05(s) {"range" : "5.1"}
+
+Servo Angle: 137
+
+Time: 97.20(s) {"range" : "5.1"}
+Time: 97.30(s) {"range" : "5.1"}
+
+Servo Angle: 136
+
+Time: 97.45(s) {"range" : "5.1"}
+Time: 97.55(s) {"range" : "5.1"}
+Time: 97.70(s) {"range" : "4.8"}
+
+Servo Angle: 135
+
+Time: 97.80(s) {"range" : "4.7"
+Time: 97.80(s) }
+Time: 97.85(s) 
+Time: 97.95(s) {"range" : "4.7"}
+
+Servo Angle: 134
+
+Time: 98.05(s) {"range"
+Time: 98.10(s) : "4.7"}
+Time: 98.20(s) {"range" : "4.8"}
+
+Servo Angle: 133
+
+Time: 98.35(s) {"range" : "5.8"}
+Time: 98.46(s) {"range" : "5.8"}
+Time: 98.61(s) {"range" : "5.8"}
+
+Servo Angle: 132
+
+Time: 98.71(s) {"range" : "5.8"}
+Time: 98.71(s) {"direction" : "inbound",
+Object detected at angle : 132
+Time: 98.76(s) "DetectedObjectVelocity" : "12"}
+Time: 98.76(s) {"direction" : "outbound", "DetectedObjectVelocity" : "-12"}
+Time: 98.76(s) 
+Object detected at angle : 132
+Time: 98.86(s) {"range" : "5.8"}
+
+Servo Angle: 131
+
+Time: 98.96(s) {"range" : "8.9"}
+Time: 98.96(s) {"direction" : "
+Time: 98.96(s) i
+Time: 98.96(s) nbound", "DetectedObjectVelocity" : "14"}
+Time: 98.96(s) {"d
+Object detected at angle : 131
+Time: 99.03(s) irection" : "outbound", "DetectedObjectVelocity" : "-15"}
+Object detected at angle : 131
+Time: 99.08(s) {"range" : "8.8"}
+Time: 99.08(s) {"d
+Time: 99.08(s) i
+Time: 99.13(s) rection" : "inbound", "DetectedObjectVelocity" : "14"}
+Object detected at angle : 131
+Time: 99.23(s) {"range" : "8.5"}
+Time: 99.23(s) {"direction" : "inboun
+Time: 99.23(s) d
+Object detected at angle : 131
+
+Servo Angle: 130
+
+Time: 99.29(s) ", "DetectedObjectVelocity" : "15"}
+Object detected at angle : 130
+Time: 99.39(s) {"range" : "8.5"}
+Time: 99.39(s) {"direction" : "outbound", "DetectedObjectVelocity" : "-15"}
+Object detected at angle : 130
+Time: 99.44(s) 
+Time: 99.49(s) {"range"
+Time: 99.49(s) :
+Time: 99.54(s) "8.5"}
+
+Servo Angle: 129
+
+Time: 99.64(s) {"range" : "8.5"}
+Time: 99.79(s) {"range" : "8.5"}
+Time: 99.79(s) {"direction" : "inbound", "DetectedObjectVe
+Time: 99.79(s) l
+Object detected at angle : 129
+Time: 99.84(s) ocity" : "15"}
+
+Servo Angle: 128
+
+Time: 99.89(s) {"
+Time: 99.94(s) range" : "8.5"}
+Time: 100.04(s) {"range" : "8.5"}
+
+Servo Angle: 127
+
+Time: 100.19(s) {"range" : "8.5"}
+Time: 100.34(s) {"range" : "8.5"}
+
+Servo Angle: 126
+
+Time: 100.49(s) {"range" : "8.5"}
+Time: 100.49(s) {"direction" : "outbound", "DetectedObjectVelocity" : "-15"}
+Object detected at angle : 126
+Time: 100.59(s) {"ra
+Time: 100.59(s) n
+Time: 100.64(s) ge" : "8.5"}
+Time: 100.74(s) {"range" : "8.5"}
+
+Servo Angle: 125
+
+Time: 100.89(s) {"range" : "8.5"}
+Time: 101.04(s) {"range" : "8.5"}
+
+Servo Angle: 124
+
+Time: 101.14(s) {"range" : "8.5"}
+Time: 101.29(s) {"range" : "8.5"}
+Time: 101.29(s) {"direction" : "inbound", "DetectedObjectVelocity" : "15"}
+Object detected at angle : 124
+
+Servo Angle: 123
+
+Time: 101.39(s) {"range" : "8.
+Time: 101.44(s) 5"}
+Time: 101.54(s) {"range" : "8.8"}
+
+Servo Angle: 122
+
+Time: 101.69(s) {"range" : "8.5"}
+Time: 101.79(s) {"range" : "8.5"}
+Time: 101.95(s) {"range" : "8.2"}
+
+Servo Angle: 121
+
+Time: 102.05(s) {"range" : "8.2"}
+Time: 102.20(s) {"range" : "8.2"}
+Time: 102.20(s) {"direction" : "inbound", "DetectedObjectVelocity" : "15"}
+Object detected at angle : 121
+Time: 102.25(s) 
+
+Servo Angle: 120
+
+Time: 102.30(s) {"range" : "8.2"}
+Time: 102.45(s) {"range" : "8.2"}
+Time: 102.55(s) {"range" : "8.2"}
+Time: 102.55(s) 
+
+Servo Angle: 119
+
+Time: 102.60(s) 
+Time: 102.70(s) {"range" : "8.2"}
+Time: 102.80(s) {"range" :
+Time: 102.85(s) "8.2"}
+
+Servo Angle: 118
+
+Time: 102.95(s) {"range" : "8.2"}
+Time: 103.10(s) {"range" : "8.2"}
+
+Servo Angle: 117
+
+Time: 103.20(s) {"r
+Time: 103.25(s) ange" : "8.2"}
+Time: 103.35(s) {"range" : "8.2"}
+
+Servo Angle: 116
+
+Time: 103.50(s) {"range" : "8.2"}
+Time: 103.65(s) {"range" : "8.2"}
+
+Servo Angle: 115
+
+Time: 103.80(s) {"range" : "8.5"}
+Time: 103.95(s) {"range" : "8.5"}
+Time: 104.05(s) {"range" : "8.5"}
+
+Servo Angle: 114
+
+Time: 104.20(s) {"range" : "8.5"}
+Time: 104.30(s) {"range" : "8.5"}
+Time: 104.30(s) 
+
+Servo Angle: 113
+
+Time: 104.45(s) {"range" : "8.2"}
+Time: 104.60(s) {"range" : "8.2"}
+
+Servo Angle: 112
+
+Time: 104.75(s) {"range" : "8.2"}
+Time: 104.85(s) {"range" : "8.2"
+Time: 104.90(s) }
+
+Servo Angle: 111
+
+Time: 105.00(s) {"range" : "7.9"}
+Time: 105.10(s) {"rang
+Time: 105.15(s) e" : "7.8"}
+Time: 105.25(s) {"range" : "7.5"}
+
+Servo Angle: 110
+
+Time: 105.40(s) {"range" : "7.5"}
+Time: 105.50(s) {"range" : "7.5"}
+
+Servo Angle: 109
+
+Time: 105.65(s) {"range" : "7.5"}
+Time: 105.65(s) {"direction" : "inbound", "DetectedObjectVelocity" : "15"}
+Object detected at angle : 109
+Time: 105.76(s) {"range" : "7.5"}
+
+Servo Angle: 108
+
+Time: 105.91(s) {"range" : "7.5"}
+Time: 106.01(s) {"range" : "7.5"}
+Time: 106.16(s) {"range" : "7.5"}
+
+Servo Angle: 107
+
+Time: 106.26(s) {"range" : "7.8"}
+Time: 106.41(s) {"range" : "8.2"}
+
+Servo Angle: 106
+
+Time: 106.51(s) {"range" : "8.5"}
+Time: 106.66(s) {"range" : "8.5"}
+Time: 106.76(s) {"range" : "
+Time: 106.76(s) 7
+Time: 106.76(s) .5"}
+
+Servo Angle: 105
+
+Time: 106.91(s) {"range" : "7.5"}
+Time: 107.01(s) {"range" : "7
+Time: 107.06(s) .2"}
+
+Servo Angle: 104
+
+Time: 107.16(s) {"range" : "7.2"}
+Time: 107.26(s) {"ran
+Time: 107.31(s) ge" : "7.2"}
+
+Servo Angle: 103
+
+Time: 107.41(s) {"range" : "7.2"}
+Time: 107.56(s) {"range" : "7.2"}
+Time: 107.66(s) {"range" : "7.2"}
+
+Servo Angle: 102
+
+Time: 107.81(s) {"range" : "7.2"}
+Time: 107.91(s) {"range" : "7.5"}
+
+Servo Angle: 101
+
+Time: 108.06(s) {"range" : "7.5"}
+Time: 108.16(s) {"range" : "7.5"}
+
+Servo Angle: 100
+
+Time: 108.31(s) {"range" : "7.5"}
+Time: 108.41(s) {"range" : "7.5"}
+Time: 108.56(s) {"range" : "7.5"}
+
+Servo Angle: 99
+
+Time: 108.66(s) {"range" : "7.
+Time: 108.71(s) 5"}
+Time: 108.81(s) {"range" : "7.5"}
+
+Servo Angle: 98
+
+Time: 108.96(s) {"range" : "7.5"}
+Time: 109.06(s) {"range" : "7.5"}
+
+Servo Angle: 97
+
+Time: 109.21(s) {"range" : "7.5"}
+Time: 109.31(s) {"range" : "7.5"}
+Time: 109.36(s) 
+Time: 109.46(s) {"range" : "7.5"}
+
+Servo Angle: 96
+
+Time: 109.57(s) {"range" : "7.5"
+Time: 109.57(s) }
+Time: 109.62(s) 
+Time: 109.72(s) {"range" : "7.5"}
+
+Servo Angle: 95
+
+Time: 109.82(s) {"range"
+Time: 109.87(s) : "7.5"}
+Time: 109.97(s) {"range" : "7.5"}
+
+Servo Angle: 94
+
+Time: 110.12(s) {"range" : "7.5"}
+Time: 110.22(s) {"range" : "7.5"}
+Time: 110.37(s) {"range" : "7.5"}
+
+Servo Angle: 93
+
+Time: 110.52(s) {"range" : "7.5"}
+Time: 110.62(s) {"range" : "7.5"}
+
+Servo Angle: 92
+
+Time: 110.77(s) {"range" : "7.5"}
+Time: 110.87(s) {"range" : "7.5
+Time: 110.92(s) "}
+
+Servo Angle: 91
+
+Time: 111.02(s) {"range" : "7.5"}
+Time: 111.17(s) {"range" : "7.5"}
+Time: 111.27(s) {"range" : "7.5"}
+
+Servo Angle: 90
+
+Time: 111.42(s) {"range" : "7.5"}
+Time: 111.52(s) {"range" : "7.2"}
+Time: 111.57(s) 
+
+Servo Angle: 89
+
+Time: 111.67(s) {"range" : "0.7"}
+Time: 111.77(s) {"range" : "
+Time: 111.77(s) 0
+Time: 111.82(s) .7"}
+
+Servo Angle: 88
+
+Time: 111.92(s) {"range" : "0.7"}
+Time: 112.02(s) {"range
+Time: 112.07(s) " : "5.8"}
+Time: 112.17(s) {"range" : "5.8"}
+
+Servo Angle: 87
+
+Time: 112.27(s) {"ran
+Time: 112.32(s) ge" : "7.8"}
+Time: 112.42(s) {"range" : "7.9"}
+
+Servo Angle: 86
+
+Time: 112.57(s) {"range" : "7.8"}
+Time: 112.67(s) {"range" : "7.8"}
+
+Servo Angle: 85
+
+Time: 112.82(s) {"range" : "7.5"}
+Time: 112.92(s) {"range" : "7.5"}
+
+Sweeping Algorithm
+
+Time: 113.07(s) {"range" : "7.5"}
+
+Servo Angle: 84
+
+Time: 113.17(s) {"range" : "7.5"}
+Time: 113.32(s) {"range" : "0.7"}
+
+Servo Angle: 83
+
+Time: 113.43(s) {"range" : "0.7"}
+Time: 113.58(s) {"range" : "0.7"}
+Time: 113.68(s) {"range" : "0.7"}
+
+Servo Angle: 82
+
+Time: 113.83(s) {"range" : "0.7"}
+Time: 113.93(s) {"range" : "7.1"}
+
+Servo Angle: 81
+
+Time: 114.08(s) {"range" : "0.7"}
+Time: 114.18(s) {"range" : "7.1
+Time: 114.23(s) "}
+
+Servo Angle: 80
+
+Time: 114.33(s) {"range" : "7.1"}
+Time: 114.43(s) {"range
+Time: 114.48(s) " : "7.2"}
+Time: 114.48(s) {"direction" : "inbound", "DetectedObjectVelocity" : "15"}
+Time: 114.48(s) {"direction" : "outbound",
+Time: 114.48(s) "Detec
+Object detected at angle : 80
+Time: 114.53(s) tedObjectVelocity" : "-15"}
+Time: 114.58(s) {"range" : "7.2"}
+
+Servo Angle: 79
+
+Time: 114.68(s) {"range
+Time: 114.73(s) " : "7.2"}
+Time: 114.83(s) {"range" : "7.5"}
+
+Servo Angle: 78
+
+Time: 114.98(s) {"range" : "7.5"}
+Time: 114.98(s) {"direction" : "inbound", "DetectedObjectVelocity" : "15"}
+Time: 114.98(s) {"direction" :
+Time: 114.98(s) 
+Object detected at angle : 78
+Time: 115.04(s) "outbound", "DetectedObjectVelocity" : "-15"}
+Object detected at angle : 78
+Time: 115.09(s) {"range" : "7.5"}
+
+Servo Angle: 77
+
+Time: 115.24(s) {"range" : "7.8"}
+Time: 115.34(s) {"range" : "8.2"}
+Time: 115.49(s) {"range" : "10.6"}
+
+Servo Angle: 76
+
+Time: 115.59(s) {"range" :
+Time: 115.64(s) "10.6"}
+Time: 115.74(s) {"range" : "0.7"}
+
+Servo Angle: 75
+
+Time: 115.89(s) {"range" : "7.5"}
+Time: 115.99(s) {"range" : "7.5"}
+
+Servo Angle: 74
+
+Time: 116.14(s) {"range" : "7.5"}
+Time: 116.14(s) {"direction" : "inbound", "DetectedObjectVelocity" :
+Time: 116.14(s) "15"}
+Object detected at angle : 74
+Time: 116.25(s) {"range" : "7.5"}
+Time: 116.40(s) {"range" : "7.5"}
+
+Servo Angle: 73
+
+Time: 116.50(s) {"range" : "7.5"}
+Time: 116.65(s) {"range" : "7.5"}
+
+Servo Angle: 72
+
+Time: 116.75(s) {"range" : "7.5"}
+Time: 116.80(s) 
+Time: 116.90(s) {"range" : "7.5"}
+Time: 117.00(s) {"rang
+
+Servo Angle: 71
+
+Time: 117.05(s) e" : "7.2"}
+Time: 117.15(s) {"range" : "7.2"}
+Time: 117.30(s) {"range" : "7.2"}
+
+Servo Angle: 70
+
+Time: 117.40(s) {"range" : "7.5"}
+Time: 117.55(s) {"range" : "7.5"}
+
+Servo Angle: 69
+
+Time: 117.65(s) {"range" : "7.5"}
+Time: 117.80(s) {"range" : "7.5"}
+Time: 117.90(s) {"range" : "7.5"}
+
+Servo Angle: 68
+
+Time: 118.05(s) {"range" : "7.8"}
+Time: 118.15(s) {"range" : "7.8"}
+
+Servo Angle: 67
+
+Time: 118.30(s) {"range" : "7.8"}
+Time: 118.40(s) {"range" : "7.5"}
+
+Servo Angle: 66
+
+Time: 118.55(s) {"range" : "7.2"}
+Time: 118.65(s) {"range" : "
+Time: 118.65(s) 8
+Time: 118.70(s) .2"}
+Time: 118.80(s) {"range" : "7.5"}
+
+Servo Angle: 65
+
+Time: 118.90(s) {"range" : "
+Time: 118.95(s) 7.5"}
+Time: 119.05(s) {"range" : "7.8"}
+
+Servo Angle: 64
+
+Time: 119.15(s) {"range"
+Time: 119.20(s) : "8.2"}
+Time: 119.30(s) {"range" : "7.8"}
+Time: 119.40(s) {"
+
+Servo Angle: 63
+
+Time: 119.45(s) range" : "7.8"}
+Time: 119.55(s) {"range" : "7.8"}
+Time: 119.70(s) {"range" : "7.8"}
+
+Servo Angle: 62
+
+Time: 119.80(s) {"range" : "7.8"}
+Time: 119.95(s) {"range" : "7.8"}
+
+Servo Angle: 61
+
+Time: 120.06(s) {"range" : "7.8"}
+Time: 120.21(s) {"range" : "7.8"}
+Time: 120.31(s) {"range" : "7.8"}
+
+Servo Angle: 60
+
+Time: 120.46(s) {"range" : "4.4"}
+Time: 120.56(s) {"range" : "4.4
+Time: 120.56(s) "
+Time: 120.61(s) }
+
+Servo Angle: 59
+
+Time: 120.71(s) {"range" : "4.4"}
+Time: 120.81(s) {"range
+Time: 120.86(s) " : "4.1"}
+
+Servo Angle: 58
+
+Time: 120.96(s) {"range" : "4.1"}
+Time: 121.11(s) {"range" : "4.1"}
+Time: 121.21(s) {"range" : "4.1"}
+
+Servo Angle: 57
+
+Time: 121.36(s) {"range" : "4.1"}
+Time: 121.46(s) {"range" : "4.1"}
+
+Servo Angle: 56
+
+Time: 121.61(s) {"range" : "4.4"}
+Time: 121.71(s) {"range"
+Time: 121.71(s) :
+Time: 121.76(s) "4.4"}
+
+Servo Angle: 55
+
+Time: 121.86(s) {"range" : "4.4"}
+Time: 122.01(s) {"range" : "4.4"}
+Time: 122.11(s) {"range" : "4.4"}
+
+Servo Angle: 54
+
+Time: 122.26(s) {"range" : "4.4"}
+Time: 122.41(s) {"range" : "4.4"}
+
+Servo Angle: 53
+
+Time: 122.51(s) {"range" : "4.4"}
+Time: 122.66(s) {"range" : "4.4"}
+
+Servo Angle: 52
+
+Time: 122.76(s) {"range" : "4.4"}
+Time: 122.91(s) {"range" : "4.4"}
+Time: 123.01(s) {"range" : "4.4"}
+
+Servo Angle: 51
+
+Time: 123.16(s) {"range" : "4.4"}
+Time: 123.26(s) {"range" : "4.4"}
+
+Servo Angle: 50
+
+Time: 123.41(s) {"range" : "4.4"}
+Time: 123.51(s) {"range" : "4.4"}
+Time: 123.51(s) 
+Time: 123.56(s) 
+
+Servo Angle: 49
+
+Time: 123.66(s) {"range" : "4.4"}
+Time: 123.76(s) {"range" :
+Time: 123.76(s) 
+Time: 123.81(s) "4.4"}
+Time: 123.91(s) {"range" : "4.4"}
+
+Servo Angle: 48
+
+Time: 124.01(s) {"ra
+Time: 124.01(s) nge" :
+Time: 124.01(s) "
+Time: 124.07(s) 4.1"}
+Time: 124.17(s) {"range" : "4.1"}
+
+Servo Angle: 47
+
+Time: 124.32(s) {"range" : "4.1"}
+Time: 124.42(s) {"range" : "4.1"}
+
+Servo Angle: 46
+
+Time: 124.57(s) {"range" : "4.1"}
+Time: 124.67(s) {"range" : "4.1"}
+Time: 124.82(s) {"range" : "4.1"}
+
+Servo Angle: 45
+
+Time: 124.92(s) {"range" : "4.
+Time: 124.96(s) 1"}
+Time: 125.07(s) {"range" : "4.1"}
+
+Servo Angle: 44
+
+Time: 125.17(s) {"ra
+Time: 125.17(s) n
+Time: 125.21(s) ge" : "4.1"}
+Time: 125.32(s) {"range" : "4.1"}
+Time: 125.42(s) {"ra
+
+Servo Angle: 43
+
+Time: 125.47(s) nge" : "4.1"}
+Time: 125.57(s) {"range" : "4.1"}
+Time: 125.72(s) {"range" : "4.1"}
+
+Servo Angle: 42
+
+Time: 125.82(s) {"range" : "4.4"}
+Time: 125.97(s) {"range" : "0.7"}
+
+Servo Angle: 41
+
+Time: 126.07(s) {"range" : "4.4"}
+Time: 126.22(s) {"range" : "4.1"}
+Time: 126.32(s) {"range" : "4.1"}
+
+Servo Angle: 40
+
+Time: 126.47(s) {"range" : "4.1"}
+Time: 126.57(s) {"range" :
+Time: 126.57(s) "
+Time: 126.57(s) 4.1"}
+
+Sweep complete, number of objects: 40
+
+
+Servo Angle: 41
+
+Time: 126.72(s) {"range" : "4.1"}
+Time: 126.87(s) {"range" : "4.1"}
+
+Servo Angle: 42
+
+Time: 126.97(s) {"range" : "4.4"}
+Time: 127.02(s) 
+Time: 127.12(s) {"range" : "4.4"}
+
+Servo Angle: 43
+
+Time: 127.27(s) {"range" : "4.4"}
+Time: 127.37(s) {"range" : "4.4"}
+Time: 127.52(s) {"range" : "4.4"}
+
+Servo Angle: 44
+
+Time: 127.62(s) {
+Time: 127.67(s) "range" : "4.4"}
+Time: 127.77(s) {"range" : "4.4"}
+
+Servo Angle: 45
+
+Time: 127.93(s) {"range" : "4.4"}
+Time: 128.07(s) {"range" : "4.4"}
+
+Servo Angle: 46
+
+Time: 128.18(s) {"range" : "
+Time: 128.23(s) 4.4"}
+Time: 128.32(s) {"range" : "4.4"}
+
+Servo Angle: 47
+
+Time: 128.48(s) {"range" : "4.4"}
+Time: 128.62(s) {"range" : "4.4"}
+Time: 128.73(s) {"range" : "4.4"}
+Time: 128.73(s) 
+
+Servo Angle: 48
+
+Time: 128.88(s) {"range" : "4.4"}
+Time: 128.98(s) {"range" : "
+Time: 128.98(s) 4
+Time: 129.02(s) .4"}
+
+Servo Angle: 49
+
+Time: 129.12(s) {"range" : "4.4"}
+Time: 129.23(s) {"range"
+Time: 129.28(s) : "4.4"}
+
+Servo Angle: 50
+
+Time: 129.38(s) {"range" : "4.4"}
+Time: 129.53(s) {"range" : "4.4"}
+Time: 129.63(s) {"range" : "4.4"}
+
+Servo Angle: 51
+
+Time: 129.78(s) {"range" : "4.4"}
+Time: 129.88(s) {"range" : "4.4"}
+
+Servo Angle: 52
+
+Time: 130.03(s) {"range" : "4.4"}
+Time: 130.13(s) {"range" : "4.4"}
+
+Servo Angle: 53
+
+Time: 130.28(s) {"range" : "4.4"}
+Time: 130.38(s) {"range" : "4.4"}
+Time: 130.53(s) {"range" : "4.4"}
+
+Servo Angle: 54
+
+Time: 130.63(s) {"range" : "4.4"}
+Time: 130.78(s) {"range" : "4.4"}
+
+Servo Angle: 55
+
+Time: 130.88(s) {"range" : "4.4"}
+Time: 131.03(s) {"range" : "4.4"}
+Time: 131.13(s) {"range" : "4.
+
+Servo Angle: 56
+
+Time: 131.18(s) 4"}
+Time: 131.28(s) {"range" : "4.4"}
+Time: 131.38(s) {"ra
+Time: 131.43(s) nge" : "4.4"}
+
+Servo Angle: 57
+
+Time: 131.53(s) {"range" : "4.4"}
+Time: 131.68(s) {"range" : "4.4"}
+
+Servo Angle: 58
+
+Time: 131.78(s) {"range" : "4.4"}
+Time: 131.93(s) {"range" : "4.4"}
+Time: 132.03(s) {"range" : "4.4"}
+
+Servo Angle: 59
+
+Time: 132.18(s) {"range" : "4.1"}
+Time: 132.28(s) {"range" : "0.7"}
+
+Servo Angle: 60
+
+Time: 132.43(s) {"range" : "7.9"}
+Time: 132.53(s) {"range" : "8.2"}
+
+Servo Angle: 61
+
+Time: 132.68(s) {"range" : "8.2"}
+Time: 132.78(s) {"range" : "8.2"
+Time: 132.83(s) }
+Time: 132.93(s) {"range" : "0.7"}
+
+Servo Angle: 62
+
+Time: 133.03(s) {"range
+Time: 133.08(s) " : "0.7"}
+Time: 133.18(s) {"range" : "7.8"}
+
+Servo Angle: 63
+
+Time: 133.33(s) {"range" : "7.9"}
+Time: 133.44(s) {"range" : "8.2"}
+
+Servo Angle: 64
+
+Time: 133.59(s) {"range" : "7.8"}
+Time: 133.69(s) {"range" : "7.5"}
+Time: 133.84(s) {"range" : "7.5"}
+
+Servo Angle: 65
+
+Time: 133.94(s) {"range" : "0.7"}
+Time: 134.09(s) {"range" : "0.7"}
+
+Servo Angle: 66
+
+Time: 134.19(s) {"range" : "0.7"}
+Time: 134.34(s) {"range" : "0.7"}
+Time: 134.44(s) {"range" : "0.
+Time: 134.44(s) 7
+
+Servo Angle: 67
+
+Time: 134.49(s) "}
+Time: 134.59(s) {"range" : "0.7"}
+Time: 134.69(s) {"rang
+Time: 134.69(s) e
+Time: 134.69(s) " : "0.
+Time: 134.74(s) 7"}
+
+Servo Angle: 68
+
+Time: 134.84(s) {"range" : "8.2"}
+Time: 134.84(s) {"direction" : "inbound", "DetectedOb
+Object detected at angle : 68
+Time: 134.89(s) jectVelocity" : "11"}
+Time: 134.99(s) {"range" : "8.2"}
+Time: 134.99(s) {"direction" : "inbound", "DetectedObjectVelocity" : "13"}
+Object detected at angle : 68
+Time: 135.04(s) {"direction" : "outbound", "DetectedObjectVelocity" : "-10"}
+Object detected at angle : 68
+
+Servo Angle: 69
+
+Time: 135.09(s) {"range" : "8.2"}
+Time: 135.09(s) {"direct
+Time: 135.09(s) i
+Object detected at angle : 69
+Time: 135.15(s) on" : "inbound", "DetectedObjectVelocity" : "15"}
+Time: 135.15(s) {"direction" : "outbound", "DetectedObjectVelo
+Time: 135.15(s) c
+Object detected at angle : 69
+Time: 135.20(s) ity" : "-13"}
+Time: 135.25(s) {"range" : "0.7"}
+Time: 135.25(s) {"direction" : "outbound", "DetectedObjectVelocity" : "
+Time: 135.25(s) -
+Object detected at angle : 69
+Time: 135.30(s) 15"}
+Time: 135.35(s) {"range" : "0.7"}
+
+Servo Angle: 70
+
+Time: 135.51(s) {"range" : "0.7"}
+Time: 135.60(s) {"range" : "0.7"}
+
+Servo Angle: 71
+
+Time: 135.76(s) {"range" : "0.7"}
+Time: 135.85(s) {"range" : "0.7"}
+
+Servo Angle: 72
+
+Time: 136.01(s) {"range" : "0.7"}
+Time: 136.01(s) {"direction" : "inbound", "DetectedObjectVelocity" :
+Object detected at angle : 72
+Time: 136.05(s) "15"}
+Time: 136.10(s) {"range" : "0.6"}
+Time: 136.26(s) {"range" : "0.7"}
+
+Servo Angle: 73
+
+Time: 136.35(s) {"range" : "0.
+Time: 136.40(s) 7"}
+Time: 136.51(s) {"range" : "0.7"}
+
+Servo Angle: 74
+
+Time: 136.61(s) {"range" : "0
+Time: 136.66(s) .7"}
+Time: 136.76(s) {"range" : "0.7"}
+Time: 136.86(s) {"ra
+
+Servo Angle: 75
+
+Time: 136.91(s) nge" : "0.7"}
+Time: 137.01(s) {"range" : "7.5"}
+Time: 137.16(s) {"range" : "7.5"}
+
+Servo Angle: 76
+
+Time: 137.26(s) {"range" : "7.5"}
+Time: 137.41(s) {"range" : "0.7"}
+
+Servo Angle: 77
+
+Time: 137.51(s) {"range" : "0.7"}
+Time: 137.66(s) {"range" : "0.7"}
+Time: 137.76(s) {"range" : "0.7"}
+
+Servo Angle: 78
+
+Time: 137.91(s) {"range" : "0.7"}
+Time: 138.01(s) {"range" : "0.7"}
+
+Servo Angle: 79
+
+Time: 138.16(s) {"range" : "7.2"}
+Time: 138.26(s) {"range"
+Time: 138.31(s) : "7.2"}
+
+Servo Angle: 80
+
+Time: 138.41(s) {"range" : "7.2"}
+Time: 138.56(s) {"range" : "7.5"}
+Time: 138.66(s) {"range" : "7.5"}
+
+Servo Angle: 81
+
+Time: 138.81(s) {"range" : "7.5"}
+Time: 138.91(s) {"range" : "7.5"}
+
+Servo Angle: 82
+
+Time: 139.06(s) {"range" : "7.5"}
+Time: 139.16(s) {"range" : "
+Time: 139.21(s) 7.5"}
+
+Servo Angle: 83
+
+Time: 139.31(s) {"range" : "0.7"}
+Time: 139.41(s) {"range" :
+Time: 139.46(s) "0.7"}
+Time: 139.56(s) {"range" : "0.7"}
+
+Servo Angle: 84
+
+Time: 139.66(s) {"
+Time: 139.66(s) r
+Time: 139.71(s) ange" : "0.7"}
+Time: 139.81(s) {"range" : "0.7"}
+
+Servo Angle: 85
+
+Time: 139.96(s) {"range" : "0.7"}
+Time: 140.06(s) {"range" : "7.5"}
+
+Servo Angle: 86
+
+Time: 140.21(s) {"range" : "7.5"}
+Time: 140.31(s) {"range" : "7.5"}
+Time: 140.46(s) {"range" : "7.5"}
+
+Servo Angle: 87
+
+Time: 140.62(s) {"range" : "7.5"}
+Time: 140.72(s) {"range" : "7
+Time: 140.77(s) .5"}
+
+Servo Angle: 88
+
+Time: 140.87(s) {"range" : "7.5"}
+Time: 141.02(s) {"range" : "7.5"}
+
+Servo Angle: 89
+
+Time: 141.12(s) {"range" : "7.5"}
+Time: 141.27(s) {"range" : "7.5"}
+Time: 141.37(s) {"range" : "0.7"}
+
+Servo Angle: 90
+
+Time: 141.52(s) {"range" : "0.7"}
+Time: 141.62(s) {"range" : "0.7
+Time: 141.67(s) "}
+
+Servo Angle: 91
+
+Time: 141.77(s) {"range" : "7.5"}
+Time: 141.92(s) {"range" : "7.5"}
+
+Servo Angle: 92
+
+Time: 142.02(s) {"range" : "7.5"}
+Time: 142.17(s) {"range" : "7.5"}
+Time: 142.27(s) {"range
+
+Servo Angle: 93
+
+Time: 142.32(s) " : "7.5"}
+Time: 142.42(s) {"range" : "7.5"}
+Time: 142.57(s) {"range" : "7.5"}
+
+Servo Angle: 94
+
+Time: 142.67(s) {"range" : "7.2"}
+Time: 142.82(s) {"range" : "7.2"}
+
+Servo Angle: 95
+
+Time: 142.92(s) {"range" : "7.2"}
+Time: 143.07(s) {"range" : "7.2"}
+Time: 143.17(s) {"range" : "7.5
+Time: 143.17(s) "
+
+Servo Angle: 96
+
+Time: 143.22(s) }
+Time: 143.32(s) {"range" : "7.5"}
+Time: 143.42(s) {"range" : "7.5"
+Time: 143.42(s) }
+Time: 143.47(s) 
+
+Servo Angle: 97
+
+Time: 143.57(s) {"range" : "7.5"}
+Time: 143.67(s) {"range"
+Time: 143.72(s) : "7.5"}
+
+Servo Angle: 98
+
+Time: 143.82(s) {"range" : "7.5"}
+Time: 143.97(s) {"range" : "7.5"}
+Time: 144.07(s) {"range" : "7.5"}
+
+Servo Angle: 99
+
+Time: 144.22(s) {"range" : "7.5"}
+Time: 144.32(s) {"range" : "7.5"}
+
+Servo Angle: 100
+
+Time: 144.47(s) {"range" : "7.5"}
+Time: 144.57(s) {"range" : "7.8"}
+
+Servo Angle: 101
+
+Time: 144.73(s) {"range" : "7.8"}
+Time: 144.88(s) {"range" : "7.8"}
+Time: 144.98(s) {"
+
+Servo Angle: 102
+
+Time: 145.03(s) range" : "7.8"}
+Time: 145.13(s) {"range" : "7.8"}
+Time: 145.28(s) {"range" : "7.8"}
+
+Servo Angle: 103
+
+Time: 145.38(s) {"range" : "7.5"}
+Time: 145.53(s) {"range" : "8.5"}
+
+Servo Angle: 104
+
+Time: 145.63(s) {"range" : "8.5"
+Time: 145.63(s) }
+Time: 145.68(s) 
+Time: 145.78(s) {"range" : "8.5"}
+Time: 145.88(s) {"range"
+Time: 145.88(s) 
+Time: 145.88(s) : "8.5"
+
+Servo Angle: 105
+
+Time: 145.93(s) }
+Time: 146.03(s) {"range" : "8.5"}
+Time: 146.13(s) {"rang
+Time: 146.13(s) e
+Time: 146.18(s) " : "8.5"}
+
+Servo Angle: 106
+
+Time: 146.28(s) {"range" : "8.5"}
+Time: 146.43(s) {"range" : "8.5"}
+
+Servo Angle: 107
+
+Time: 146.53(s) {"range" : "8.5"}
+Time: 146.68(s) {"range" : "8.5"}
+Time: 146.78(s) {"range" : "8.5"}
+
+Servo Angle: 108
+
+Time: 146.93(s) {"range" : "8.5"}
+Time: 147.03(s) {"range" : "8.5"
+Time: 147.08(s) }
+
+Servo Angle: 109
+
+Time: 147.18(s) {"range" : "8.5"}
+Time: 147.28(s) {"range" : "8.5
+Time: 147.28(s) "
+Time: 147.33(s) }
+
+Servo Angle: 110
+
+Time: 147.43(s) {"range" : "8.5"}
+Time: 147.53(s) {"range" :
+Time: 147.53(s) 
+Time: 147.58(s) "8.8"}
+Time: 147.68(s) {"range" : "8.8"}
+
+Servo Angle: 111
+
+Time: 147.78(s) {"ra
+Time: 147.83(s) nge" : "8.8"}
+Time: 147.93(s) {"range" : "8.8"}
+
+Servo Angle: 112
+
+
+Detection Algorithm
+
+Time: 148.08(s) {"range" : "8.8"}
+Time: 148.18(s) {"range" : "8.5"}
+Time: 148.34(s) {"range" : "8.5"}
+Time: 148.44(s) {"range" : "8.5"}
+Time: 148.59(s) {"range" : "8.5"}
+Time: 148.74(s) {"range" : "8.5"}
+Time: 148.84(s) {"range" : "8.
+Time: 148.89(s) 5"}
+Time: 148.99(s) {"range" : "8.5"}
+Time: 149.14(s) {"range" : "8.5"}
+Time: 149.24(s) {"range" : "8.5"}
+Time: 149.39(s) {"range" : "8.5"}
+Time: 149.54(s) {"range" : "8.5"}
+Time: 149.64(s) {"range" : "8.5"}
+Time: 149.79(s) {"range" : "8.5"}
+Time: 149.94(s) {"range" : "8.5"}
+Time: 150.04(s) {"range" : "8.5"}
+Time: 150.19(s) {"range" : "8.5"}
+Time: 150.29(s) {"range" : "8.
+Time: 150.34(s) 5"}
+Time: 150.44(s) {"range" : "8.5"}
+
+Servo Angle: 122
+
+Time: 150.59(s) {"range" : "8.5"}
+Time: 150.69(s) {"
+Time: 150.74(s) range" : "8.5"}
+Time: 150.84(s) {"range" : "8.5"}
+Time: 150.99(s) {"range" : "8.5"}
+Time: 151.09(s) {"range" : "8.5"}
+Time: 151.24(s) {"range" : "8.5"}
+Time: 151.34(s) {"ra
+Time: 151.34(s) n
+Time: 151.39(s) ge" : "8.5"}
+Time: 151.49(s) {"range" : "8.5"}
+Time: 151.64(s) {"range" : "8.5"}
+Time: 151.74(s) {"range" : "8.5"}
+Time: 151.89(s) {"range" : "8.5"}
+Time: 151.99(s) {"range" : "8.5"}
+Time: 152.14(s) {"range" : "8.5"}
+Time: 152.29(s) {"range" : "8.5"}
+Time: 152.39(s) {"range" : "8.5"}
+Time: 152.54(s) {"range" : "8.5"}
+Time: 152.64(s) {"range" : "8
+Time: 152.69(s) .5"}
+Time: 152.79(s) {"range" : "8.5"}
+Time: 152.94(s) {"range" : "8.5"}
+Time: 153.04(s) {"range" : "4.8"}
+
+Servo Angle: 132
+
+Time: 153.19(s) {"range" : "5.1"}
+Time: 153.29(s) {"range" : "5.1
+Time: 153.29(s) "
+Time: 153.29(s) }
+Time: 153.45(s) {"range" : "5.1"}
+Time: 153.55(s) {"range" : "5.1"}
+Time: 153.55(s) 
+Time: 153.70(s) {"range" : "5.1"}
+Time: 153.80(s) {"range" : "
+Time: 153.80(s) 5
+Time: 153.85(s) .1"}
+Time: 153.95(s) {"range" : "5.1"}
+Time: 154.05(s) {"ra
+Time: 154.05(s) n
+Time: 154.10(s) ge" : "5.1"}
+Time: 154.20(s) {"range" : "4.8"}
+Time: 154.20(s) {"direction" : "outbound", "Det
+
+Object detected at angle: 132
+
+Time: 154.25(s) ectedObjectVelocity" : "-15"}
+Time: 154.35(s) {"range" : "5.1"}
+Time: 154.45(s) {"range" : "5.1"}
+Time: 154.60(s) {"range" : "5.1"}
+Time: 154.70(s) {"range" : "5.4"}
+Time: 154.85(s) {"range" : "5.4"}
+Time: 154.95(s) {"range" : "5.5"}
+Time: 155.10(s) {"range" : "5.5"}
+Time: 155.20(s) {"range" : "5.1"
+Time: 155.25(s) }
+Time: 155.35(s) {"range" : "4.8"}
+Time: 155.50(s) {"range" : "4.8"}
+Time: 155.60(s) {"range" : "4.8
+Time: 155.65(s) "}
+Time: 155.75(s) {"range" : "4.8"}
+Time: 155.90(s) {"range" : "4.8"}
+Time: 156.00(s) {"range" : "4.8"}
+Time: 156.15(s) {"range" : "5.4"}
+Time: 156.25(s) {"range" : "5.8"}
+Time: 156.40(s) {"range" : "5.5"}
+Time: 156.50(s) {"range" : "5
+Time: 156.50(s) .
+Time: 156.55(s) 8"}
+Time: 156.65(s) {"range" : "5.5"}
+Time: 156.75(s) {"rang
+Time: 156.80(s) e" : "5.5"}
+Time: 156.90(s) {"range" : "5.8"}
+Time: 157.05(s) {"range" : "4.4"}
+Time: 157.15(s) {"range" : "4.4"}
+Time: 157.30(s) {"range" : "4.4"}
+Time: 157.40(s) {"range" : "3.7"}
+Time: 157.55(s) {"range" : "4.8"}
+Time: 157.65(s) {"range" : "4.8"}
+Time: 157.80(s) {"range" : "4.8"}
+Time: 157.92(s) {"range" : "4.8"}
+Time: 158.07(s) {"range" : "4.8"}
+Time: 158.22(s) {"range" : "4.8"}
+Time: 158.37(s) {"range" : "4.8"}
+Time: 158.47(s) {"range" : "4.
+Time: 158.47(s) 8
+Time: 158.52(s) "}
+Time: 158.62(s) {"range" : "4.8"}
+Time: 158.77(s) {"range" : "4.4"}
+Time: 158.87(s) {"range" : "4.4"}
+Time: 159.02(s) {"range" : "5.4"}
+Time: 159.12(s) {"range" : "5.1"}
+Time: 159.27(s) {"range" : "5.1"}
+
+Servo Angle: 142
+
+Time: 159.37(s) {"range" : "4.8"}
+Time: 159.42(s) 
+Time: 159.52(s) {"range" : "4.8"}
+Time: 159.62(s) {"range" : "4.8"}
+Time: 159.67(s) 
+Time: 159.77(s) {"range" : "4.8"}
+Time: 159.87(s) {"range" :
+Time: 159.87(s) 
+Time: 159.92(s) "4.8"}
+Time: 160.02(s) {"range" : "4.8"}
+Time: 160.17(s) {"range" : "4.8"}
+Time: 160.27(s) {"range" : "4.8"}
+Time: 160.42(s) {"range" : "4.8"}
+Time: 160.52(s) {"range" : "5.8"}
+Time: 160.67(s) {"range" : "4.4"}
+Time: 160.77(s) {"range" : "4.4"}
+Time: 160.92(s) {"range" : "4.4"}
+Time: 161.02(s) {"range" : "0.7"
+Time: 161.07(s) }
+Time: 161.18(s) {"range" : "5.8"}
+Time: 161.28(s) {"range" : "5.8"
+Time: 161.33(s) }
+Time: 161.43(s) {"range" : "5.5"}
+Time: 161.53(s) {"range"
+Time: 161.53(s) 
+Time: 161.58(s) : "5.4"}
+Time: 161.68(s) {"range" : "5.4"}
+Time: 161.83(s) {"range" : "5.4"}
+
+Servo Angle: 132
+
+Time: 161.93(s) {"range" : "5.4"}
+Time: 162.08(s) {"range" : "5.4"}
+Time: 162.23(s) {"range" : "5.4"}
+Time: 162.38(s) {"range" : "5.4"}
+Time: 162.53(s) {"range" : "5.4"}
+Time: 162.63(s) {"range" : "5.4"}
+Time: 162.63(s) 
+Time: 162.78(s) {"range" : "5.5"}
+Time: 162.93(s) {"range" : "5.4"}
+Time: 163.03(s) {"range" : "5.5"}
+Time: 163.18(s) {"range" : "5.5"}
+Time: 163.28(s) {"range" : "5.8"}
+Time: 163.43(s) {"range" : "5.8"}
+Time: 163.53(s) {"range" : "5.8"}
+Time: 163.68(s) {"range" : "5.8"}
+Time: 163.78(s) {"range" : "5.8"
+Time: 163.78(s) }
+Time: 163.83(s) 
+Time: 163.93(s) {"range" : "5.8"}
+Time: 164.03(s) {"range" :
+Time: 164.08(s) "8.5"}
+Time: 164.18(s) {"range" : "8.5"}
+Time: 164.28(s) {"
+Time: 164.28(s) r
+Time: 164.28(s) ange"
+Time: 164.28(s) :
+Time: 164.33(s) "8.5"}
+
+Servo Angle: 122
+
+Time: 164.43(s) {"range" : "8.5"}
+Time: 164.58(s) {"range" : "8.5"}
+Time: 164.68(s) {"range" : "8.5"}
+Time: 164.83(s) {"range" : "8.8"}
+Time: 164.93(s) {"range" : "8.5"}
+Time: 165.08(s) {"range" : "8.5"}
+Time: 165.23(s) {"range" : "8.5"}
+Time: 165.38(s) {"range" : "8.5"}
+Time: 165.53(s) {"range" : "8.5"}
+Time: 165.63(s) {"range" : "8.5"}
+Time: 165.68(s) 
+Time: 165.78(s) {"range" : "8.5"}
+Time: 165.93(s) {"range" : "8.5"}
+Time: 166.09(s) {"range" : "8.5"}
+Time: 166.19(s) {"range" : "8.5"}
+Time: 166.24(s) 
+Time: 166.34(s) {"range" : "8.5"}
+Time: 166.49(s) {"range" : "8.5"}
+Time: 166.64(s) {"range" : "8.5"}
+Time: 166.74(s) {"ran
+Time: 166.74(s) g
+Time: 166.79(s) e" : "8.5"}
+Time: 166.89(s) {"range" : "8.5"}
+
+Servo Angle: 112
+
+Time: 167.04(s) {"range" : "8.5"}
+Time: 167.19(s) {"range" : "8.5"}
+Time: 167.29(s) {"range" : "
+Time: 167.34(s) 8.8"}
+Time: 167.44(s) {"range" : "8.8"}
+Time: 167.59(s) {"range" : "8.8"}
+Time: 167.69(s) {"range" : "8.8"}
+Time: 167.84(s) {"range" : "8.8"}
+Time: 167.94(s) {"range" : "8.5"}
+Time: 168.09(s) {"range" : "8.2"}
+Time: 168.24(s) {"range" : "8.2"}
+Time: 168.34(s) {"range" : "8.2"}
+Time: 168.49(s) {"range" : "8.8"}
+Time: 168.59(s) {"range" : "8.9"}
+Time: 168.74(s) {"range" : "8.9"}
+Time: 168.84(s) {"range" : "8.9"}
+Time: 168.89(s) 
+Time: 168.99(s) {"range" : "8.9"}
+Time: 169.14(s) {"range" : "8.9"}
+Time: 169.24(s) {"range" : "7.9"}
+Time: 169.39(s) {"range" : "8.2"}
+
+Servo Angle: 102
+
+Time: 169.54(s) {"range" : "8.2"}
+Time: 169.64(s) {"range" : "8
+Time: 169.64(s) .
+Time: 169.69(s) 2"}
+Time: 169.79(s) {"range" : "8.2"}
+Time: 169.94(s) {"range" : "8.2"}
+Time: 170.04(s) {"range" : "8.2"}
+Time: 170.19(s) {"range" : "7.9"}
+Time: 170.29(s) {"range" :
+Time: 170.29(s) "
+Time: 170.34(s) 7.8"}
+Time: 170.44(s) {"range" : "7.8"}
+Time: 170.59(s) {"range" : "7.8"}
+Time: 170.74(s) {"range" : "7.8"}
+Time: 170.84(s) {"rang
+Time: 170.84(s) e
+Time: 170.84(s) " : "7.
+Time: 170.90(s) 8"}
+Time: 171.00(s) {"range" : "7.8"}
+Time: 171.15(s) {"range" : "7.8"}
+Time: 171.25(s) {"range" : "7.8"}
+Time: 171.40(s) {"range" : "7.8"}
+Time: 171.50(s) {"range" : "7.8"
+Time: 171.55(s) }
+Time: 171.65(s) {"range" : "7.8"}
+Time: 171.75(s) {"r
+Time: 171.75(s) a
+Time: 171.80(s) nge" : "7.5"}
+Time: 171.90(s) {"range" : "7.5"}
+Time: 172.05(s) {"range" : "7.5"}
+
+Servo Angle: 92
+
+Time: 172.15(s) {"range" : "7.5"}
+Time: 172.30(s) {"range" : "7.5"}
+Time: 172.40(s) {"range" : "7.5"}
+Time: 172.55(s) {"range" : "7.5"}
+Time: 172.65(s) {"range" : "7.5"}
+Time: 172.80(s) {"range" : "7.5"}
+Time: 172.95(s) {"range" : "7.5"}
+Time: 173.05(s) {"range" : "7.5"
+Time: 173.10(s) }
+Time: 173.20(s) {"range" : "7.5"}
+Time: 173.35(s) {"range" : "7.5"}
+Time: 173.45(s) {"r
+Time: 173.45(s) a
+Time: 173.50(s) nge" : "7.5"}
+Time: 173.60(s) {"range" : "7.5"}
+Time: 173.75(s) {"range" : "7.5"}
+Time: 173.85(s) {"range" : "7.5"}
+Time: 174.00(s) {"range" : "7.5"}
+Time: 174.10(s) {"range" : "7.5"}
+Time: 174.10(s) 
+Time: 174.25(s) {"range" : "7.8"}
+Time: 174.35(s) {"range" : "7.8"
+Time: 174.40(s) }
+Time: 174.50(s) {"range" : "7.8"}
+Time: 174.60(s) {"range" : "
+
+Servo Angle: 82
+
+Time: 174.65(s) 7.8"}
+Time: 174.75(s) {"range" : "7.5"}
+Time: 174.85(s) {"rang
+Time: 174.85(s) e
+Time: 174.90(s) " : "7.5"}
+Time: 175.00(s) {"range" : "7.5"}
+Time: 175.15(s) {"range" : "7.5"}
+Time: 175.25(s) {"range" : "7.8"}
+Time: 175.40(s) {"range" : "0.7"}
+Time: 175.40(s) {"direction" : "inbound", "DetectedObjectVelocity" : "15"}
+
+Object detected at angle: 82
+
+Time: 175.51(s) {"range" : "0.7"}
+Time: 175.66(s) {"range" : "0.7"}
+Time: 175.76(s) {"range" : "0.7"}
+Time: 175.91(s) {"range" : "7.1"}
+Time: 175.91(s) {"direction" : "inbound", "DetectedObjectVelocity" : "15"}
+
+Object detected at angle: 82
+
+Time: 175.96(s) 
+Time: 175.96(s) {"direction" : "outbound", "DetectedObjectVelocity" : "-13"}
+
+Object detected at angle: 82
+
+Time: 176.01(s) {"range" : "7.2"}
+Time: 176.01(s) {"
+Time: 176.01(s) directi
+Time: 176.01(s) o
+
+Object detected at angle: 82
+
+Time: 176.06(s) n" : "inbound", "DetectedObjectVelocity" : "15"}
+Time: 176.06(s) {"direction" : "outbound", "DetectedObjectVeloc
+
+Object detected at angle: 82
+
+Time: 176.11(s) ity" : "-13"}
+Time: 176.16(s) {"range" : "7.2"}
+Time: 176.16(s) {"direction" : "outbound", "DetectedObjectVeloci
+
+Object detected at angle: 82
+
+Time: 176.21(s) ty" : "-14"}
+Time: 176.31(s) {"range" : "7.5"}
+Time: 176.41(s) {"range" : "7.5"}
+Time: 176.41(s) 
+Time: 176.41(s) {"dire
+
+Object detected at angle: 82
+
+Time: 176.46(s) ction" : "outbound", "DetectedObjectVelocity" : "-15"}
+
+Object detected at angle: 82
+
+Time: 176.57(s) {"range" : "7.5"}
+Time: 176.57(s) {"direction" : "outbound",
+
+Object detected at angle: 82
+
+Time: 176.62(s) "DetectedObjectVelocity" : "-15"}
+
+Object detected at angle: 82
+
+Time: 176.71(s) {"range" : "7.5"}
+Time: 176.87(s) {"range" : "7.5"}
+Time: 176.96(s) {"rang
+Time: 176.96(s) e
+Time: 177.01(s) " : "7.5"}
+Time: 177.12(s) {"range" : "7.5"}
+Time: 177.27(s) {"range" : "7.5"}
+Time: 177.37(s) {"range" : "7.5"}
+Time: 177.52(s) {"range" : "7.2"}
+Time: 177.62(s) {"range" : "7.2"}
+Time: 177.77(s) {"range" : "7.5"}
+Time: 177.87(s) {"range
+Time: 177.92(s) " : "7.5"}
+Time: 177.92(s) {"direction" : "outbound", "DetectedObjectVelocity" : "-15"}
+
+Object detected at angle: 82
+
+Time: 178.02(s) {"range" : "7.5"}
+Time: 178.17(s) {"range" : "7.5"}
+Time: 178.27(s) {"range" : "7.5"}
+Time: 178.42(s) {"range" : "7.5"}
+Time: 178.52(s) {"range" : "7.5"}
+Time: 178.67(s) {"range" : "7.5"}
+Time: 178.77(s) {"range" : "7.5"}
+Time: 178.82(s) 
+Time: 178.92(s) {"range" : "7.5"}
+Time: 179.02(s) {"range" :
+Time: 179.07(s) "7.5"}
+Time: 179.17(s) {"range" : "7.5"}
+Time: 179.27(s) {
+Time: 179.32(s) "range" : "7.5"}
+Time: 179.42(s) {"range" : "5.1"}
+Time: 179.57(s) {"range" : "7.2"}
+Time: 179.67(s) {"range" : "7.5"}
+Time: 179.82(s) {"range" : "7.5"}
+Time: 179.97(s) {"range" : "7.5"}
+Time: 179.97(s) {"direction" : "outbound", "DetectedObjectVelocity" : "-15"}
+
+Object detected at angle: 82
+
+Time: 180.08(s) {"range" : "7.5"}
+Time: 180.23(s) {"range" : "7.5"}
+Time: 180.33(s) {"range" : "7.5"}
+Time: 180.48(s) {"range" : "7.5"}
+Time: 180.58(s) {"range" : "7.5"}
+Time: 180.73(s) {"range" : "7.2"}
+Time: 180.83(s) {"range" : "7.2"
+Time: 180.88(s) }
+Time: 180.98(s) {"range" : "7.1"}
+Time: 181.08(s) {"range
+Time: 181.08(s) "
+Time: 181.13(s) : "7.1"}
+Time: 181.23(s) {"range" : "7.2"}
+Time: 181.38(s) {"range" : "7.5"}
+Time: 181.49(s) {"range" : "7.5"}
+Time: 181.63(s) {"range" : "7.5"}
+Time: 181.74(s) {"range" : "0.
+Time: 181.79(s) 7"}
+Time: 181.88(s) {"range" : "0.7"}
+Time: 181.99(s) {"rang
+Time: 181.99(s) e
+Time: 182.04(s) " : "0.7"}
+Time: 182.13(s) {"range" : "0.7"}
+Time: 182.29(s) {"range" : "0.7"}
+Time: 182.38(s) {"range" : "0.7"}
+Time: 182.54(s) {"range" : "7.1"}
+Time: 182.63(s) {"range" : "7.1"}
+Time: 182.79(s) {"range" : "7.2"}
+Time: 182.88(s) {"range" :
+Time: 182.93(s) "7.2"}
+Time: 183.04(s) {"range" : "7.2"}
+Time: 183.14(s) {"range" : "
+Time: 183.14(s) 7
+Time: 183.19(s) .2"}
+Time: 183.29(s) {"range" : "7.2"}
+Time: 183.39(s) {"ran
+Time: 183.44(s) ge" : "7.2"}
+Time: 183.54(s) {"range" : "7.5"}
+Time: 183.69(s) {"range" : "7.5"}
+Time: 183.84(s) {"range" : "7.5"}
+Time: 183.94(s) {"range" : "7.5"}
+Time: 184.09(s) {"range" : "7.5"}
+Time: 184.24(s) {"range" : "7.5"}
+Time: 184.34(s) {"range"
+Time: 184.39(s) : "7.5"}
+Time: 184.49(s) {"range" : "7.5"}
+Time: 184.64(s) {"range" : "7.5"}
+Time: 184.74(s) {"range" : "7.5"}
+Time: 184.89(s) {"range" : "7.5"}
+Time: 184.99(s) {"range" : "7.
+Time: 185.04(s) 5"}
+
+Servo Angle: 72
+
+Time: 185.14(s) {"range" : "7.5"}
+Time: 185.24(s) {"range
+Time: 185.29(s) " : "7.5"}
+Time: 185.39(s) {"range" : "7.5"}
+Time: 185.49(s) {
+Time: 185.54(s) "range" : "7.2"}
+Time: 185.64(s) {"range" : "7.2"}
+Time: 185.79(s) {"range" : "7.2"}
+Time: 185.89(s) {"range" : "7.2"}
+Time: 186.04(s) {"range" : "7.2"}
+Time: 186.14(s) {"range" : "7.2"}
+Time: 186.29(s) {"range" : "7.2"}
+Time: 186.39(s) {"range" : "7.2"}
+Time: 186.54(s) {"range" : "7.5"}
+Time: 186.64(s) {"range" : "7.5"}
+Time: 186.79(s) {"range" : "7.2"}
+Time: 186.89(s) {"range" : "7.2"}
+Time: 187.04(s) {"range" : "7.5"}
+Time: 187.14(s) {"range" : "7.5
+Time: 187.19(s) "}
+Time: 187.29(s) {"range" : "7.5"}
+Time: 187.39(s) {
+Time: 187.39(s) "
+Time: 187.44(s) range" : "7.5"}
+Time: 187.54(s) {"range" : "7.5"}
+
+Servo Angle: 62
+
+Time: 187.69(s) {"range" : "7.5"}
+Time: 187.79(s) {"range" : "7.5"}
+Time: 187.95(s) {"range" : "7.5"}
+Time: 188.05(s) {"
+Time: 188.10(s) range" : "7.5"}
+Time: 188.20(s) {"range" : "7.5"}
+Time: 188.35(s) {"range" : "0.7"}
+Time: 188.45(s) {"range" : "4.4"}
+Time: 188.60(s) {"range" : "7.5"}
+Time: 188.70(s) {"range" : "7.5"}
+Time: 188.85(s) {"range" : "7.2"}
+Time: 188.95(s) {"range" : "0.7"
+Time: 189.00(s) }
+Time: 189.10(s) {"range" : "7.5"}
+Time: 189.20(s) {"range"
+Time: 189.25(s) : "7.5"}
+Time: 189.35(s) {"range" : "7.5"}
+Time: 189.45(s) {
+Time: 189.50(s) "range" : "0.7"}
+Time: 189.60(s) {"range" : "0.7"}
+Time: 189.75(s) {"range" : "0.7"}
+Time: 189.85(s) {"range" : "0.7"}
+Time: 190.00(s) {"range" : "0.7"}
+Time: 190.10(s) {"range" : "8.2"}
+Time: 190.10(s) {"direction" : "in
+
+Object detected at angle: 62
+
+Time: 190.15(s) bound", "DetectedObjectVelocity" : "15"}
+Time: 190.15(s) {"direction" : "outbound", "DetectedObjectVelocity" : "
+
+Object detected at angle: 62
+
+Time: 190.20(s) -15"}
+Time: 190.25(s) {"range" : "8.2"}
+
+Tracking Algorithm
+
+Time: 190.35(s) {"range" : "8.5"}
+Time: 190.50(s) {"range" : "8.5"}
+Time: 190.60(s) {"range" : "8.5"}
+Time: 190.75(s) {"range" : "8.5"}
+Time: 190.75(s) {"direction" : "inbound", "DetectedObjectVelocity" : "15
+Time: 190.75(s) "
+
+Object detected at angle: 62
+
+Time: 190.80(s) }
+Time: 190.85(s) {"range" : "8.5"}
+Time: 191.01(s) {"range" : "8.5"}
+Time: 191.10(s) {"range" : "8.5"}
+Time: 191.26(s) {"range" : "8.5"}
+Time: 191.35(s) {"range" :
+Time: 191.35(s) "
+Time: 191.40(s) 8.5"}
+Time: 191.51(s) {"range" : "8.5"}
+Time: 191.61(s) {"range" :
+Time: 191.66(s) "0.7"}
+Time: 191.76(s) {"range" : "0.7"}
+Time: 191.86(s) {"r
+Time: 191.91(s) ange" : "7.8"}
+Time: 192.01(s) {"range" : "7.8"}
+Time: 192.16(s) {"range" : "7.5"}
+Time: 192.26(s) {"range" : "0.7"}
+Time: 192.41(s) {"range" : "0.7"}
+Time: 192.51(s) {"range" : "0.7"}
+Time: 192.66(s) {"range" : "0.7"}
+Time: 192.66(s) {"direction" : "inbound", "DetectedObjectVelocity" : "15"}
+Time: 192.66(s) {"dir
+
+Object redetected at angle: 62
+
+Time: 192.71(s) ection" : "outbound", "DetectedObjectVelocity" : "-13"}
+
+Object redetected at angle: 62
+
+Time: 192.76(s) {"range" : "0.7"}
+Time: 192.76(s) {"direction" : "o
+Time: 192.76(s) u
+
+Object redetected at angle: 62
+
+Time: 192.81(s) tbound", "DetectedObjectVelocity" : "-15"}
+
+Object redetected at angle: 62
+
+Time: 192.91(s) {"range" : "0.7"}
+Time: 193.01(s) {"range" : "0.7"}
+Time: 193.16(s) {"range" : "0.7"}
+Time: 193.26(s) {"range" : "0.7"}
+Time: 193.41(s) {"range" : "7.5"}
+Time: 193.51(s) {"range" : "0
+Time: 193.51(s) .7"}
+Time: 193.66(s) {"range" : "0.7"}
+Time: 193.76(s) {"range" :
+Time: 193.82(s) "0.7"}
+Time: 193.91(s) {"range" : "0.7"}
+Time: 194.01(s) {"ra
+Time: 194.07(s) nge" : "0.7"}
+Time: 194.16(s) {"range" : "7.8"}
+Time: 194.32(s) {"range" : "0.7"}
+Time: 194.32(s) {"direction" : "inbound", "DetectedObjectVelocity" : "14"}
+Time: 194.32(s) {"direction"
+Time: 194.32(s) 
+
+Object redetected at angle: 62
+
+Time: 194.37(s) : "outbound", "DetectedObjectVelocity" : "-14"}
+
+Object redetected at angle: 62
+
+Time: 194.42(s) {"range" : "0.7"}
+Time: 194.42(s) {"direction" : "inbound", "D
+
+Object redetected at angle: 62
+
+Time: 194.47(s) etectedObjectVelocity" : "15"}
+Time: 194.57(s) {"range" : "0.7"}
+Time: 194.57(s) {"direction" : "outbound", "DetectedObjectVelocity" : "-15"}
+
+Object redetected at angle: 62
+
+Time: 194.67(s) {"range" : "0.7"}
+Time: 194.82(s) {"range" : "0.7"}
+Time: 194.92(s) {"range" : "0.7"}
+Time: 195.07(s) {"range" : "0.7"}
+Time: 195.17(s) {"range" : "0.7"}
+Time: 195.32(s) {"range" : "0.7"}
+Time: 195.32(s) {"direction" : "outbound", "DetectedObjectVelocity" : "-12"}
+
+Object redetected at angle: 62
+
+Time: 195.42(s) {"range" : "0.7"}
+Time: 195.57(s) {"range" : "0.7"}
+Time: 195.67(s) {"range" : "0.7"}
+Time: 195.67(s) {"dir
+Time: 195.67(s) e
+
+Object redetected at angle: 62
+
+Time: 195.72(s) ction" : "outbound", "DetectedObjectVelocity" : "-13"}
+
+Object redetected at angle: 62
+
+Time: 195.82(s) {"range" : "0.7"}
+Time: 195.82(s) {"direction" : "inbound", "DetectedObjectVelocity" :
+Time: 195.82(s) "12"}
+
+Object redetected at angle: 62
+
+Time: 195.88(s) 
+Time: 195.93(s) {"range" : "0.7"}
+Time: 195.93(s) {"directi
+
+Object redetected at angle: 62
+
+Time: 195.98(s) on" : "inbound", "DetectedObjectVelocity" : "15"}
+
+Object redetected at angle: 62
+
+Time: 196.08(s) {"range" : "0.7"}
+Time: 196.18(s) {"range" : "0.7"}
+Time: 196.33(s) {"range" : "8.5"}
+Time: 196.43(s) {"range" : "
+Time: 196.43(s) 8
+Time: 196.48(s) .5"}
+Time: 196.48(s) {"direction" : "outbound", "DetectedObjectVelocity" : "-14"}
+
+Object redetected at angle: 62
+
+Time: 196.58(s) {"range" : "8.2"}
+Time: 196.58(s) {"direction" : "outbound", "DetectedObje
+Time: 196.58(s) c
+
+Object redetected at angle: 62
+
+Time: 196.63(s) tVelocity" : "-15"}
+Time: 196.68(s) {"
+Time: 196.73(s) range" : "8.2"}
+Time: 196.83(s) {"range" : "8.5"}
+Time: 196.98(s) {"range" : "8.5"}
+Time: 197.08(s) {"range" : "0.7"}
+Time: 197.23(s) {"range" : "0.7"}
+Time: 197.33(s) {"range" : "0.7"}
+Time: 197.48(s) {"range" : "0.7"}
+Time: 197.58(s) {"range" : "0.7"}
+Time: 197.73(s) {"range" : "7.8"}
+Time: 197.73(s) {"direction" : "inbound", "DetectedObjectVelocity" :
+
+Object redetected at angle: 62
+
+Time: 197.78(s) "14"}
+Time: 197.78(s) {"direction" : "outbound", "DetectedObjectVelocity" : "-15"}
+
+Object redetected at angle: 62
+
+Time: 197.83(s) {"range" : "7.8"}
+Time: 197.83(s) {
+Time: 197.83(s) "
+Time: 197.88(s) direction" : "inbound", "DetectedObjectVelocity" : "15"}
+
+Object redetected at angle: 62
+
+Time: 197.99(s) {"range" : "0.7"}
+Time: 198.09(s) {"range" : "0.7"}
+Time: 198.24(s) {"range" : "0.7"}
+Time: 198.34(s) {"range" : "0.7"}
+Time: 198.39(s) 
+Time: 198.49(s) {"range" : "7.5"}
+Time: 198.59(s) {"ra
+Time: 198.59(s) n
+Time: 198.64(s) ge" : "7.5"}
+Time: 198.74(s) {"range" : "7.5"}
+Time: 198.89(s) {"range" : "7.5"}
+Time: 198.99(s) {"range" : "7.2"}
+Time: 199.14(s) {"range" : "8.5"}
+Time: 199.24(s) {"range" : "8.5"}
+Time: 199.24(s) {"direction" :
+
+Object redetected at angle: 62
+
+Time: 199.29(s) "inbound", "DetectedObjectVelocity" : "15"}
+
+Object redetected at angle: 62
+
+Time: 199.40(s) {"range" : "8.5"}
+Time: 199.49(s) {"range" : "8.5"}
+Time: 199.65(s) {"range" : "0.7"}
+Time: 199.74(s) {"range" : "8.2"}
+Time: 199.90(s) {"range" : "7.8"}
+Time: 199.99(s) {"range" :
+Time: 200.04(s) "7.8"}
+Time: 200.15(s) {"range" : "7.8"}
+Time: 200.24(s) {"rang
+Time: 200.29(s) e" : "7.8"}
+Time: 200.40(s) {"range" : "7.8"}
+Time: 200.54(s) {"range" : "7.8"}
+Time: 200.65(s) {"range" : "7.8"}
+Time: 200.80(s) {"range" : "0.7"}
+Time: 200.90(s) {"range" : "0.7"}
+Time: 201.05(s) {"range" : "0.7"}
+Time: 201.15(s) {"range" : "0.7"}
+Time: 201.30(s) {"range" : "0.7"}
+Time: 201.40(s) {"range" : "
+Time: 201.45(s) 0.7"}
+Time: 201.55(s) {"range" : "0.7"}
+Time: 201.65(s) {"ra
+Time: 201.70(s) nge" : "0.7"}
+Time: 201.80(s) {"range" : "0.7"}
+
+Checking 62 + 10 for redetection
+Servo Angle: 72
+
+Time: 201.95(s) {"range" : "0.7"}
+Time: 202.05(s) {"range" : "7.5"}
+Time: 202.20(s) {"range" : "7.5"}
+Time: 202.30(s) {"range" : "7.5"}
+Time: 202.45(s) {"range" : "7.5"}
+Time: 202.55(s) {"range" : "0.7"}
+Time: 202.70(s) {"range" : "0.7"}
+Time: 202.80(s) {"range" : "0.7"}
+Time: 202.95(s) {"range" : "0.7"}
+Time: 203.05(s) {"range" : "0.
+Time: 203.05(s) 7
+Time: 203.10(s) "}
+Time: 203.20(s) {"range" : "0.7"}
+Time: 203.30(s) {"rang
+Time: 203.30(s) e
+Time: 203.35(s) " : "8.5"}
+Time: 203.45(s) {"range" : "0.7"}
+Time: 203.60(s) {"range" : "0.7"}
+Time: 203.70(s) {"range" : "0.7"}
+Time: 203.85(s) {"range" : "0.7"}
+Time: 203.95(s) {"range" : "0.7"}
+Time: 204.10(s) {"range" : "0.7"}
+Time: 204.10(s) {"direction" : "inbound", "DetectedObjectVelocity" : "15"}
+Time: 204.10(s) {"dire
+
+Object redetected at angle: 72
+
+Time: 204.15(s) ction" : "outbound", "DetectedObjectVelocity" : "-9"}
+
+Object redetected at angle: 72
+
+Time: 204.21(s) {"range" : "0.7"}
+Time: 204.35(s) {"range" : "8.2"}
+Time: 204.35(s) {"direction" : "outbound", "DetectedObjectVelocity" : "-14
+
+Object redetected at angle: 72
+
+Time: 204.41(s) "}
+Time: 204.46(s) {"range" : "0.7"}
+Time: 204.61(s) {"range" : "0.7"}
+Time: 204.61(s) {"direction" : "inbound", "DetectedObjectVelocity" : "15"
+
+Object redetected at angle: 72
+
+Time: 204.66(s) }
+Time: 204.66(s) {"direction" : "outbound", "DetectedObjectVelocity" : "-15"}
+
+Object redetected at angle: 72
+
+Time: 204.71(s) {"range" : "0.7"}
+Time: 204.86(s) {"range" : "0.7"}
+Time: 204.96(s) {"range" : "0.7
+Time: 204.96(s) "
+Time: 205.01(s) }
+Time: 205.11(s) {"range" : "0.7"}
+Time: 205.11(s) {"direction" : "inbound", "DetectedObjectVelocit
+Time: 205.11(s) y
+
+Object redetected at angle: 72
+
+Time: 205.16(s) " : "15"}
+Time: 205.21(s) {"range" : "0.7"
+Time: 205.26(s) }
+Time: 205.36(s) {"range" : "0.7"}
+Time: 205.46(s) {"range"
+Time: 205.51(s) : "0.7"}
+Time: 205.61(s) {"range" : "0.7"}
+Time: 205.71(s) {"
+Time: 205.76(s) range" : "0.7"}
+Time: 205.86(s) {"range" : "0.7"}
+Time: 206.01(s) {"range" : "0.7"}
+Time: 206.11(s) {"range" : "7.9"}
+Time: 206.26(s) {"range" : "8.2"}
+Time: 206.37(s) {"range" : "7.9"}
+Time: 206.52(s) {"range" : "7.8"}
+Time: 206.62(s) {"range" : "7.8"}
+Time: 206.77(s) {"range" : "7.8"}
+Time: 206.87(s) {"range" : "7.8"}
+Time: 207.02(s) {"range" : "7.5"}
+Time: 207.12(s) {"range" : "7.
+Time: 207.17(s) 5"}
+Time: 207.27(s) {"range" : "7.5"}
+Time: 207.37(s) {"range
+Time: 207.42(s) " : "7.5"}
+Time: 207.52(s) {"range" : "7.5"}
+Time: 207.62(s) {
+Time: 207.67(s) "range" : "7.5"}
+
+Checking 72 + 10 for redetection
+Servo Angle: 82
+
+Time: 207.77(s) {"range" : "7.5"}
+Time: 207.77(s) {"direction" : "inbound", "Detected
+
+Object redetected at angle: 82
+
+Time: 207.82(s) ObjectVelocity" : "15"}
+Time: 207.92(s) {"range" : "7.5"}
+Time: 208.02(s) {"range" : "7.5"}
+Time: 208.17(s) {"range" : "7.5"}
+Time: 208.27(s) {"range" : "7.5"}
+Time: 208.42(s) {"range" : "7.5"}
+Time: 208.52(s) {"range" : "7.5"}
+Time: 208.67(s) {"range" : "7.5"}
+Time: 208.77(s) {"range" : "7.5"}
+Time: 208.92(s) {"range" : "7.5"}
+Time: 208.92(s) {"direction" : "inbound", "DetectedObjectVelocit
+Time: 208.92(s) y" : "1
+
+Object redetected at angle: 82
+
+Time: 208.97(s) 4"}
+Time: 208.97(s) {"direction" : "outbound", "DetectedObjectVelocity" : "-14"}
+
+Object redetected at angle: 82
+
+Time: 209.02(s) {"range" : "7.5"}
+Time: 209.02(s) {"d
+Time: 209.07(s) irection" : "outbound", "DetectedObjectVelocity" : "-15"}
+
+Object redetected at angle: 82
+
+Time: 209.17(s) {"range" : "7.5"}
+Time: 209.27(s) {"range" : "7.
+Time: 209.32(s) 5"}
+Time: 209.42(s) {"range" : "7.5"}
+Time: 209.53(s) {"range" : "
+Time: 209.53(s) 7
+Time: 209.58(s) .5"}
+Time: 209.58(s) {"direction" : "inbound", "DetectedObjectVelocity" : "15"}
+
+Object redetected at angle: 82
+
+Time: 209.68(s) {"range" : "7.5"}
+Time: 209.68(s) {"direction" : "inbound", "DetectedObj
+
+Object redetected at angle: 82
+
+Time: 209.73(s) ectVelocity" : "15"}
+Time: 209.78(s) {"ra
+Time: 209.78(s) n
+Time: 209.83(s) ge" : "7.5"}
+Time: 209.93(s) {"range" : "7.5"}
+Time: 210.08(s) {"range" : "7.5"}
+Time: 210.18(s) {"range" : "7.5"}
+Time: 210.33(s) {"range" : "7.5"}
+Time: 210.43(s) {"range" : "7.5"}
+Time: 210.58(s) {"range" : "7.5"}
+Time: 210.68(s) {"range" : "7.5"}
+Time: 210.83(s) {"range" : "7.5"}
+Time: 210.93(s) {"range" : "7.5"}
+Time: 211.08(s) {"range" : "7.5"}
+Time: 211.18(s) {"ra
+Time: 211.18(s) n
+Time: 211.23(s) ge" : "7.5"}
+Time: 211.33(s) {"range" : "7.5"}
+Time: 211.48(s) {"range" : "7.5"}
+Time: 211.58(s) {"range" : "7.5
+Time: 211.63(s) "}
+Time: 211.73(s) {"range" : "7.5"}
+Time: 211.83(s) {"ran
+Time: 211.83(s) ge" : "
+Time: 211.88(s) 7.5"}
+Time: 211.98(s) {"range" : "7.5"}
+Time: 212.08(s) {"range
+Time: 212.13(s) " : "7.5"}
+Time: 212.23(s) {"range" : "7.8"}
+
+Checking 82 + 10 for redetection
+Servo Angle: 92
+
+Time: 212.38(s) {"range" : "7.8"}
+Time: 212.48(s) {"range" : "7.5"}
+Time: 212.63(s) {"range" : "7.5"}
+Time: 212.73(s) {"range" : "7.2"}
+Time: 212.88(s) {"range" : "7.5"}
+Time: 212.98(s) {"range" : "7.5"}
+Time: 213.13(s) {"range" : "7.5"}
+Time: 213.23(s) {"range" : "7.5"}
+Time: 213.23(s) 
+Time: 213.38(s) {"range" : "7.2"}
+Time: 213.49(s) {"range" : "7.2"
+Time: 213.54(s) }
+Time: 213.63(s) {"range" : "7.2"}
+Time: 213.74(s) {"range"
+Time: 213.79(s) : "7.5"}
+Time: 213.88(s) {"range" : "7.5"}
+Time: 213.99(s) {
+Time: 213.99(s) "
+Time: 214.04(s) range" : "7.8"}
+Time: 214.13(s) {"range" : "7.5"}
+Time: 214.29(s) {"range" : "7.5"}
+Time: 214.29(s) {"direction" : "inbound", "DetectedObjectVelocity" : "11"}
+Time: 214.29(s) {"directi
+
+Object redetected at angle: 92
+
+Time: 214.34(s) on" : "outbound", "DetectedObjectVelocity" : "-15"}
+
+Object redetected at angle: 92
+
+Time: 214.39(s) {"range" : "7.5"}
+Time: 214.39(s) {"direction" : "outbou
+Time: 214.39(s) n
+
+Object redetected at angle: 92
+
+Time: 214.44(s) d", "DetectedObjectVelocity" : "-15"}
+
+Object redetected at angle: 92
+
+Time: 214.54(s) {"range" : "7.5"}
+Time: 214.54(s) {"direction" : "inbound", "DetectedObjectVelocity" : "14"}
+
+Object redetected at angle: 92
+
+Time: 214.64(s) {"range" : "7.5"}
+Time: 214.79(s) {"range" : "7.5"}
+Time: 214.89(s) {"range" : "7.5"}
+Time: 215.04(s) {"range" : "7.5"}
+Time: 215.14(s) {"range" : "7.5"}
+Time: 215.29(s) {"range" : "7.5"}
+Time: 215.29(s) {"direction" : "inbound", "DetectedObjectVe
+Time: 215.29(s) l
+
+Object redetected at angle: 92
+
+Time: 215.34(s) ocity" : "15"}
+Time: 215.39(s) {"range
+Time: 215.39(s) "
+Time: 215.44(s) : "7.5"}
+Time: 215.54(s) {"range" : "7.5"}
+Time: 215.69(s) {"range" : "7.5"}
+Time: 215.79(s) {"range" : "7.5"}
+Time: 215.94(s) {"range" : "7.5"}
+Time: 215.94(s) {"direction" : "inbound", "DetectedObjectV
+Time: 215.94(s) e
+
+Object redetected at angle: 92
+
+Time: 216.00(s) locity" : "15"}
+Time: 216.10(s) {"range" : "7.5"}
+Time: 216.20(s) {"range" : "7.5"}
+Time: 216.35(s) {"range" : "7.5"}
+Time: 216.35(s) {"direction" : "outbound", "Detecte
+Time: 216.35(s) d
+
+Object redetected at angle: 92
+
+Time: 216.40(s) ObjectVelocity" : "-15"}
+Time: 216.50(s) {"range" : "7.5"}
+Time: 216.60(s) {"range"
+Time: 216.60(s) :
+Time: 216.65(s) "7.5"}
+Time: 216.75(s) {"range" : "7.5"}
+Time: 216.90(s) {"range" : "7.5"}
+Time: 217.00(s) {"range"
+Time: 217.05(s) : "7.5"}
+Time: 217.15(s) {"range" : "7.5"}
+Time: 217.30(s) {"range" : "7.5"}
+Time: 217.40(s) {"ran
+Time: 217.40(s) g
+Time: 217.45(s) e" : "7.5"}
+Time: 217.55(s) {"range" : "7.5"}
+Time: 217.70(s) {"range" : "7.5"}
+Time: 217.80(s) {"ran
+Time: 217.80(s) g
+Time: 217.85(s) e" : "7.5"}
+Time: 217.95(s) {"range" : "7.5"}
+Time: 218.10(s) {"range" : "7.5"}
+Time: 218.20(s) {"range" : "7.5"}
+Time: 218.36(s) {"range" : "7.5"}
+Time: 218.46(s) {"range" : "7
+Time: 218.51(s) .5"}
+Time: 218.61(s) {"range" : "7.5"}
+Time: 218.76(s) {"range" : "7.5"}
+Time: 218.91(s) {"range" : "7.8"}
+
+Checking 92 + 10 for redetection
+Servo Angle: 102
+
+Time: 219.01(s) {"range" : "8.2"}
+Time: 219.16(s) {"range" : "8.2"}
+Time: 219.31(s) {"range" : "8.2"}
+Time: 219.41(s) {"range" : "8.2"}
+Time: 219.56(s) {"range" : "7.9"}
+Time: 219.66(s) {"range" : "7.8"}
+Time: 219.81(s) {"range" : "7.5"}
+Time: 219.91(s) {"range" : "7.5"}
+Time: 220.06(s) {"range" : "7.5"}
+Time: 220.16(s) {"range" : "7.5"}
+Time: 220.31(s) {"range" : "7.5"}
+Time: 220.41(s) {"range" : "7.
+Time: 220.46(s) 5"}
+Time: 220.56(s) {"range" : "7.8"}
+Time: 220.71(s) {"range" : "8.2"}
+Time: 220.81(s) {"range" : "8.5"}
+Time: 220.96(s) {"range" : "8.5"}
+Time: 221.06(s) {"range" : "8.5"}
+Time: 221.21(s) {"range" : "8.5"}
+Time: 221.31(s) {"range"
+Time: 221.36(s) : "8.5"}
+
+Checking 92 - 10 for redetection
+Servo Angle: 82
+
+Time: 221.46(s) {"range" : "8.5"}
+Time: 221.61(s) {"range" : "7.8"}
+Time: 221.71(s) {"range" : "7.5"}
+Time: 221.86(s) {"range" : "7.5"}
+Time: 221.96(s) {"range" : "7.
+Time: 222.01(s) 5"}
+Time: 222.11(s) {"range" : "7.5"}
+Time: 222.21(s) {"r
+Time: 222.26(s) ange" : "7.5"}
+Time: 222.36(s) {"range" : "7.5"}
+Time: 222.51(s) {"range" : "7.5"}
+Time: 222.61(s) {"range" : "7.5"}
+Time: 222.76(s) {"range" : "7.2"}
+Time: 222.86(s) {"range" : "7.2"}
+Time: 223.01(s) {"range" : "7.2"}
+Time: 223.11(s) {"range" : "7.5"}
+Time: 223.27(s) {"range" : "7.5"}
+Time: 223.27(s) {"direction" : "inbound", "DetectedObjectVelocity" : "1
+
+Object redetected at angle: 82
+
+Time: 223.32(s) 1"}
+Time: 223.37(s) {"range" : "7.5"}
+Time: 223.37(s) {"
+Time: 223.42(s) direction" : "inbound", "DetectedObjectVelocity" : "15"}
+
+Object redetected at angle: 82
+
+Time: 223.52(s) {"range" : "7.5"}
+Time: 223.62(s) {"range" : "7.
+Time: 223.67(s) 5"}
+Time: 223.77(s) {"range" : "7.5"}
+Time: 223.87(s) {"rang
+Time: 223.92(s) e" : "7.5"}
+Time: 224.02(s) {"range" : "7.5"}
+Time: 224.12(s) {"ra
+Time: 224.12(s) n
+Time: 224.17(s) ge" : "7.5"}
+Time: 224.27(s) {"range" : "7.5"}
+Time: 224.27(s) {"direction" : "inbound", "Detec
+Time: 224.27(s) t
+
+Object redetected at angle: 82
+
+Time: 224.32(s) edObjectVelocity" : "13"}
+Time: 224.42(s) {"range" : "7.5"}
+Time: 224.42(s) {"direction" : "outbound", "DetectedObjectVelocity" : "-13"}
+
+Object redetected at angle: 82
+
+Time: 224.52(s) {"range" : "7.5"}
+Time: 224.67(s) {"range" : "7.2"}
+Time: 224.77(s) {"range" : "7.2"}
+Time: 224.77(s) {"direction" : "inb
+
+Object redetected at angle: 82
+
+Time: 224.82(s) ound", "DetectedObjectVelocity" : "15"}
+Time: 224.82(s) {"direction" : "outbound", "DetectedObjectVelocity" : "-1
+
+Object redetected at angle: 82
+
+Time: 224.87(s) 5"}
+Time: 224.92(s) {"range" : "7.5"}
+Time: 225.02(s) {"range" : "7.2"}
+Time: 225.17(s) {"range" : "7.5"}
+Time: 225.27(s) {"range" : "7.5"}
+Time: 225.42(s) {"range" : "7.5"}
+Time: 225.52(s) {"range" : "7.5"}
+Time: 225.52(s) 
+Time: 225.52(s) 
+Time: 225.68(s) {"range" : "7.5"}
+Time: 225.78(s) {"range" : "7.5"}
+Time: 225.78(s) 
+Time: 225.93(s) {"range" : "7.5"}
+Time: 226.03(s) {"range" : "7
+Time: 226.08(s) .2"}
+Time: 226.18(s) {"range" : "7.2"}
+Time: 226.33(s) {"range" : "7.1"}
+Time: 226.43(s) {"range" : "7.1"}
+Time: 226.58(s) {"range" : "7.1"}
+Time: 226.68(s) {"range" : "6.8"}
+Time: 226.83(s) {"range" : "0.7"}
+Time: 226.93(s) {"range" : "7.5"}
+Time: 227.08(s) {"range" : "7.5"}
+Time: 227.18(s) {"range" : "7.5"}
+Time: 227.18(s) 
+Time: 227.18(s) {"dir
+Time: 227.18(s) e
+
+Object redetected at angle: 82
+
+Time: 227.23(s) ction" : "outbound", "DetectedObjectVelocity" : "-15"}
+
+Object redetected at angle: 82
+
+Time: 227.33(s) {"range" : "7.5"}
+Time: 227.43(s) {"range" : "7.5"}
+Time: 227.48(s) 
+Time: 227.58(s) {"range" : "7.5"}
+Time: 227.58(s) {"direction" : "outbound", "DetectedObjectVelo
+
+Object redetected at angle: 82
+
+Time: 227.63(s) city" : "-15"}
+Time: 227.68(s) {"range" : "
+Time: 227.73(s) 7.5"}
+Time: 227.84(s) {"range" : "7.5"}
+Time: 227.93(s) {"rang
+Time: 227.93(s) e
+Time: 227.99(s) " : "7.5"}
+Time: 228.09(s) {"range" : "7.5"}
+Time: 228.24(s) {"range" : "7.5"}
+Time: 228.34(s) {"range" : "7.5"}
+Time: 228.34(s) {"direction" :
+
+Object redetected at angle: 82
+
+Time: 228.38(s) "inbound", "DetectedObjectVelocity" : "15"}
+
+Object redetected at angle: 82
+
+Time: 228.49(s) {"range" : "7.5"}
+Time: 228.59(s) {"range" : "7.5"}
+Time: 228.74(s) {"range" : "7.5"}
+Time: 228.84(s) {"range" : "7.5"}
+Time: 228.84(s) 
+Time: 228.99(s) {"range" : "7.5"}
+Time: 229.09(s) {"range" : "7.5"
+Time: 229.09(s) }
+Time: 229.14(s) 
+
+Program ended. 
+
