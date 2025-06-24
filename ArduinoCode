@@ -1,0 +1,387 @@
+#include <Servo.h>
+#include <SPI.h>
+#include <SD.h>
+
+Servo s;
+// Object Detection variables
+const int centerAngle = 90;         // default angle
+int angle = centerAngle;            // current servo angle, starts at centerAngle but this saves our current angle
+int count = 0;                      // counts empty detections
+int direction = 1;                  // toggles +1 / -1
+int lastAngle = -1;                 // to avoid re-printing angle
+int objFlag = 0;                    // counts of how many readings since detecting an object
+int objAngle = 0;                   // angle in which we last detected an object
+int checkFlag = -1;                 // to know which angle we are checking
+const int maxAngle = 140;
+const int minAngle = 40;
+bool detObj = false;
+
+// changeable parameters for testing
+const int changeAngle = 10;         // growing sweep magnitude
+const int maxCount = 50;
+String prevData = "";
+
+// algorithm parameters steady sweep, op = C
+float ledStartTime = 0; // marks when we turn an LED on when we detect an object
+float ledMaxTime = 1;   // how long LED should be on in seconds
+int ledPin = 48;
+int ledStatus = 0; // if LED is on 
+int sweepMaxCount = 5; // how many readings per degree
+int sweepChangeAngle = 1; // degrees for sweeping
+int numObj = 0;             // Counting objects per sweep
+int sweepObj = 0;           // Complete sweep report
+
+// Set up variables
+const int chipSelect = 50;
+char op = '\0'; 
+File dataFile;
+String fileName = "";
+
+bool dataParse(float timestamp) {
+    bool found = false;
+    while (Serial3.available()) {
+        String sensorData = "";
+        char c;
+
+        while (Serial3.available()) {
+            c = Serial3.read();
+            sensorData += c;
+            if (c == '\n') break;
+        }
+
+        sensorData.trim();
+        if (sensorData.indexOf("dir") != -1 || sensorData.indexOf("Det") != -1) {
+            found = true;
+        }
+
+        if (dataFile) {
+            dataFile.println("Time: " + String(timestamp, 2) + "(s) " + sensorData);
+        }
+    }
+    return found;
+}
+
+void setup() {
+    SerialUSB.begin(19200);     // only necessary when plugged into a laptop
+    Serial3.begin(19200);       // OPS243C Sensor
+    Serial2.begin(9600);        // HC-05 Bluetooth
+    s.attach(52);
+    s.write(centerAngle);
+    if (!SD.begin(chipSelect)) {
+        SerialUSB.println("⚠️ SD card initialization failed!");
+        return;
+    }
+    SerialUSB.println("✅ SD card initialized successfully.");
+    Serial2.println("Send A for tracking");
+    Serial2.println("B for detection");
+    Serial2.println("C for sweeping");
+    Serial2.println("T for system time");
+    Serial2.println("O for number of detected objects");
+    Serial2.println("r to reset");
+    Serial2.println("R to shut down ");
+    pinMode(ledPin, OUTPUT);
+    digitalWrite(ledPin, LOW);
+    // Find a new file name like Test1.txt, Test2.txt, ...
+    int fileIndex = 1;
+    while (true) {
+        fileName = "Test" + String(fileIndex) + ".txt";
+        if (!SD.exists(fileName)) {
+            break;
+        }
+        fileIndex++;
+    }
+    dataFile = SD.open(fileName, FILE_WRITE);
+}
+
+
+void loop() {
+    //unsigned long timestamp = millis() / 1000;
+    float timestamp = millis() / 1000.0;
+    // check if there is BT input, change the operation code
+    if (Serial2.available()) {
+        op = Serial2.read();
+        // A for operate, B to stop and reset
+        if (op == 'A') {
+            Serial2.println("Tracking Algorithm");
+            dataFile.println();
+            dataFile.println("Tracking Algorithm");
+            dataFile.println();
+        } else if (op == 'B') {
+            Serial2.println("Detection Algorithm");
+            dataFile.println();
+            dataFile.println("Detection Algorithm");
+            dataFile.println();
+        } else if (op == 'r') {
+            dataFile.println();
+            dataFile.println("Soft reset ");
+            dataFile.println();
+            Serial2.println("Soft reset");
+        } else if (op == 'C') {
+            Serial2.println("Sweeping Algorithm");
+            dataFile.println();
+            dataFile.println("Sweeping Algorithm");
+            dataFile.println();
+        } else if (op == 'R') {
+            Serial2.println("Program ended. ");
+            if (dataFile) {
+                dataFile.println();
+                dataFile.println("Program ended. ");
+                dataFile.println();
+                dataFile.close();
+            }
+        } else if (op == 'T') {
+            Serial2.println("Current time: " + String(timestamp));   
+        } else if (op == 'O') {
+            Serial2.println("Number of objects: " + String(sweepObj));
+        }
+    }
+    // operation code
+    if (op == 'A') {
+        // detObj to false every loop, then open the file
+        detObj = dataParse(timestamp);
+
+        // if we detect an object, reset count and save that angle, trigger objFlag and scan that angle for an object.
+        // if we no longer  see an object at that angle, scan nearby angles of using +/- changeAngle and +/- changeAngle * 2
+        // if no object has been detected, increment the count so that we stay at a each angle for a set amount of readings
+        // if no objects are ever detected, continue sweeping from where we first detected the object, which is objAngle
+
+        // new detected object
+        if (detObj && objFlag == 0) {
+            digitalWrite(ledPin, HIGH);
+            count = 0;
+            objAngle = angle;
+            objFlag = 1;
+            if (dataFile) {
+                dataFile.println();
+                dataFile.println("Object detected at angle: " + String(angle));
+                dataFile.println();
+            } 
+
+        // old detected object, scan nearby angles but does not change if the degree is out of servo range
+        } else if (!detObj && objFlag > 0 ) {
+            if (objFlag > 0 && objFlag <= maxCount) {
+                angle = objAngle;
+                objFlag++;
+                checkFlag = 0;
+            } else if ((objFlag > maxCount && objFlag <= maxCount * 2) && angle <= maxAngle - changeAngle) {
+                angle = objAngle + changeAngle;
+                objFlag++;
+                checkFlag = 1;
+            } else if ((objFlag > maxCount * 2 && objFlag <= maxCount * 3) && angle >= minAngle + changeAngle) {
+                angle = objAngle - changeAngle;
+                objFlag++;
+                checkFlag = 2;
+            } else if ((objFlag > maxCount * 3 && objFlag <= maxCount * 4) && angle <= maxAngle - 2 * changeAngle) {
+                angle = objAngle + 2 * changeAngle;
+                objFlag++;
+                checkFlag = 3;
+            } else if ((objFlag > maxCount * 4 && objFlag <= maxCount * 5) && angle >= minAngle + 2 * changeAngle) {
+                angle = objAngle - 2 * changeAngle;
+                objFlag++;
+                checkFlag = 4;
+            } else if (objFlag > maxCount * 5) {
+                objFlag = 0;
+                angle = objAngle;
+                checkFlag = -1;
+                if (dataFile) {
+                    dataFile.println();
+                    dataFile.println("Object lost, continuing sweep. ");
+                    dataFile.println();
+                } 
+            } else {
+                objFlag++;            
+
+
+            }
+        // if an object is redetected
+        } else if (detObj && objFlag > 0) {
+            if (dataFile) {
+                dataFile.println();
+                dataFile.println("Object redetected at angle: " + String(angle));
+                dataFile.println();
+            } 
+            objAngle = angle;
+            objFlag = 1;
+        // if no detected object, increment count
+        } else if (count < maxCount && objFlag == 0) {
+            digitalWrite(ledPin, LOW);
+            count++;
+            objFlag = 0;
+        // otherwise, change the angle of the servo.
+        } else if (count >= maxCount && objFlag == 0){
+            count = 0;
+            if (angle >= maxAngle) {
+                direction = -1;
+            } else if (angle <= minAngle) {
+                direction = 1;
+            }
+            angle += direction * changeAngle;
+        }
+
+
+        // only print angle if it is different from the lastAngle
+        if (angle != lastAngle) {
+            s.write(angle);
+            lastAngle = angle;
+
+            if (dataFile) {
+                dataFile.println();
+                if (checkFlag == 0) {
+                    dataFile.println("Checking " + String(objAngle) + " for redetection");
+                } else if (checkFlag == 1) {
+                    dataFile.println("Checking " + String(objAngle) + " + " + String(changeAngle) + " for redetection");
+                } else if (checkFlag == 2) {
+                    dataFile.println("Checking " + String(objAngle) + " - " + String(changeAngle) + " for redetection");
+                } else if (checkFlag == 3) {
+                    dataFile.println("Checking " + String(objAngle) + " + " + String(changeAngle * 2) + " for redetection");                
+                } else if (checkFlag == 4) {
+                    dataFile.println("Checking " + String(objAngle) + " - " + String(changeAngle * 2) + " for redetection");                  
+                }
+
+
+                dataFile.println("Servo Angle: " + String(angle));
+                dataFile.println();
+            } 
+        } 
+        delay(50);
+    } else if (op == 'B') {
+        // This is the simple detection algorithm.
+
+        // read in line by line from the sensor using an empty string
+        // this method sometimes outputs empty lines when there is no information from the sensor but its fast
+        // if the object detection line is an interrupt, we think it sends as soon as a range line ends
+        // parsing must be fast to pick up the object detection line
+        // or it uses a buffer, then the buffer gets full and deletes info 
+        detObj = dataParse(timestamp);
+
+        // if an object is detected, freeze the angle and do not sweep
+        if (detObj) {
+            digitalWrite(ledPin, HIGH);
+            count = -maxCount; 
+                if (dataFile) {
+                    dataFile.println();
+                    dataFile.println("Object detected at angle: " + String(angle));
+                    dataFile.println();
+                }
+        // if no object is detected, continue sweeping
+        } else {
+            if (count < maxCount) {
+                count++;
+            } else {
+                digitalWrite(ledPin, LOW);
+                count = 0;
+                if (angle >= maxAngle) {
+                    direction = -1;
+                } else if (angle <= minAngle) {
+                    direction = 1;
+                }
+                angle += direction * changeAngle;
+            }
+        }
+
+        // only print angle if it is different from the lastAngle
+        if (angle != lastAngle) {
+            s.write(angle);
+            lastAngle = angle;
+
+            if (dataFile) {
+                dataFile.println();
+                dataFile.print("Servo Angle: ");
+                dataFile.println(angle);
+                dataFile.println();
+            }
+        }
+        delay(50);
+    // Reset servo if op is false, reset parameters
+    } else if (op == 'r') {
+        // Object Detection variables
+        angle = centerAngle;   // current servo angle, starts at centerAngle but this saves our current angle
+        count = 0;             // counts empty detections
+        direction = 1;         // toggles +1 / -1
+        lastAngle = -1;        // to avoid re-printing angle
+        objFlag = 0;
+        objAngle = 0;
+        numObj = 0; 
+        sweepObj = 0; 
+        s.write(angle);
+        delay(50);
+        digitalWrite(ledPin, LOW);
+
+    } else if (op == 'C') {
+        // detObj to false every loop, then open the file
+        detObj = dataParse(timestamp);
+
+        // turn on LED
+        if (detObj) {
+            numObj++;
+            ledStatus = 1; 
+            ledStartTime = timestamp;
+            digitalWrite(ledPin, HIGH);
+            if (dataFile) {
+                dataFile.println("Object detected at angle : " + String(angle));
+            } 
+        } else if (ledStatus == 1 && timestamp >= ledStartTime + ledMaxTime) {
+            ledStatus = 0;
+            digitalWrite(ledPin, LOW);
+        }
+
+        if (count < sweepMaxCount) {
+            count++;   
+        } else if (count >= sweepMaxCount){
+            count = 0;
+            if (angle >= maxAngle) {
+                sweepObj = numObj; 
+                numObj = 0;
+                if (dataFile) {
+                    dataFile.println();
+                    dataFile.println("Sweep complete, number of objects: " + String(angle));
+                    dataFile.println();
+                } 
+                direction = -1;
+
+            } else if (angle <= minAngle) {
+                sweepObj = numObj;
+                numObj = 0;
+                if (dataFile) {
+                    dataFile.println();
+                    dataFile.println("Sweep complete, number of objects: " + String(angle));
+                    dataFile.println();
+                } 
+                direction = 1;
+            }
+            angle += sweepChangeAngle * direction;
+        }
+
+
+        // only print angle if it is different from the lastAngle
+        if (angle != lastAngle) {
+            s.write(angle);
+            lastAngle = angle;
+
+            if (dataFile) {
+                dataFile.println();
+                dataFile.println("Servo Angle: " + String(angle));
+                dataFile.println();
+            } 
+        } 
+        delay(50);
+    }  else if (op == 'R') {
+        // Object Detection variables
+        angle = centerAngle;   // current servo angle, starts at centerAngle but this saves our current angle
+        count = 0;             // counts empty detections
+        direction = 1;         // toggles +1 / -1
+        lastAngle = -1;        // to avoid re-printing angle
+        objFlag = 0;
+        objAngle = 0;
+        numObj = 0; 
+        sweepObj = 0; 
+        ledStatus = 0;
+        ledStartTime = 0; 
+        s.write(angle);
+        delay(50);
+        digitalWrite(ledPin, LOW);
+
+    }
+}
+
+
